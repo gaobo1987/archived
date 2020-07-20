@@ -1,0 +1,865 @@
+<?xml version="1.0" ?><Document doc_id="11714" doc_name="11714_Ryanair_exercises_options_on_five_Boeing_737s" lang="nl" url="http://en.wikinews.org/wiki/Ryanair_exercises_options_on_five_Boeing_737s">
+  <token number="0" sentence="0" t_id="1">Ryanair</token>
+  <token number="1" sentence="0" t_id="2">bevestigt</token>
+  <token number="2" sentence="0" t_id="3">opties</token>
+  <token number="3" sentence="0" t_id="4">op</token>
+  <token number="4" sentence="0" t_id="5">vijf</token>
+  <token number="5" sentence="0" t_id="6">Boeing</token>
+  <token number="6" sentence="0" t_id="7">737-machines</token>
+  <token number="7" sentence="1" t_id="8">13-Jun-05</token>
+  <token number="8" sentence="2" t_id="9">De</token>
+  <token number="9" sentence="2" t_id="10">Ierse</token>
+  <token number="10" sentence="2" t_id="11">goedkope</token>
+  <token number="11" sentence="2" t_id="12">luchtvaartmaatschappij</token>
+  <token number="12" sentence="2" t_id="13">Ryanair</token>
+  <token number="13" sentence="2" t_id="14">kondigde</token>
+  <token number="14" sentence="2" t_id="15">vandaag</token>
+  <token number="15" sentence="2" t_id="16">aan</token>
+  <token number="16" sentence="2" t_id="17">dat</token>
+  <token number="17" sentence="2" t_id="18">het</token>
+  <token number="18" sentence="2" t_id="19">bedrijf</token>
+  <token number="19" sentence="2" t_id="20">zijn</token>
+  <token number="20" sentence="2" t_id="21">opties</token>
+  <token number="21" sentence="2" t_id="22">bij</token>
+  <token number="22" sentence="2" t_id="23">Boeing</token>
+  <token number="23" sentence="2" t_id="24">voor</token>
+  <token number="24" sentence="2" t_id="25">vijf</token>
+  <token number="25" sentence="2" t_id="26">nieuwe</token>
+  <token number="26" sentence="2" t_id="27">737-vliegtuigen</token>
+  <token number="27" sentence="2" t_id="28">zal</token>
+  <token number="28" sentence="2" t_id="29">uitoefenen</token>
+  <token number="29" sentence="2" t_id="30">.</token>
+  <token number="0" sentence="3" t_id="31">Hiermee</token>
+  <token number="1" sentence="3" t_id="32">heeft</token>
+  <token number="2" sentence="3" t_id="33">Ryanair</token>
+  <token number="3" sentence="3" t_id="34">in</token>
+  <token number="4" sentence="3" t_id="35">totaal</token>
+  <token number="5" sentence="3" t_id="36">230</token>
+  <token number="6" sentence="3" t_id="37">machines</token>
+  <token number="7" sentence="3" t_id="38">in</token>
+  <token number="8" sentence="3" t_id="39">bestelling</token>
+  <token number="9" sentence="3" t_id="40">staan</token>
+  <token number="10" sentence="3" t_id="41">bij</token>
+  <token number="11" sentence="3" t_id="42">de</token>
+  <token number="12" sentence="3" t_id="43">Amerikaanse</token>
+  <token number="13" sentence="3" t_id="44">fabrikant</token>
+  <token number="14" sentence="3" t_id="45">.</token>
+  <token number="0" sentence="4" t_id="46">De</token>
+  <token number="1" sentence="4" t_id="47">nieuwe</token>
+  <token number="2" sentence="4" t_id="48">vliegtuigen</token>
+  <token number="3" sentence="4" t_id="49">,</token>
+  <token number="4" sentence="4" t_id="50">die</token>
+  <token number="5" sentence="4" t_id="51">deel</token>
+  <token number="6" sentence="4" t_id="52">uitmaken</token>
+  <token number="7" sentence="4" t_id="53">van</token>
+  <token number="8" sentence="4" t_id="54">de</token>
+  <token number="9" sentence="4" t_id="55">737-800-lijn</token>
+  <token number="10" sentence="4" t_id="56">,</token>
+  <token number="11" sentence="4" t_id="57">worden</token>
+  <token number="12" sentence="4" t_id="58">uitgevoerd</token>
+  <token number="13" sentence="4" t_id="59">met</token>
+  <token number="14" sentence="4" t_id="60">zogenaamde</token>
+  <token number="15" sentence="4" t_id="61">blended</token>
+  <token number="16" sentence="4" t_id="62">winglets</token>
+  <token number="17" sentence="4" t_id="63">,</token>
+  <token number="18" sentence="4" t_id="64">waardoor</token>
+  <token number="19" sentence="4" t_id="65">de</token>
+  <token number="20" sentence="4" t_id="66">brandstofefficiëntie</token>
+  <token number="21" sentence="4" t_id="67">met</token>
+  <token number="22" sentence="4" t_id="68">wel</token>
+  <token number="23" sentence="4" t_id="69">3</token>
+  <token number="24" sentence="4" t_id="70">%</token>
+  <token number="25" sentence="4" t_id="71">kan</token>
+  <token number="26" sentence="4" t_id="72">verbeteren</token>
+  <token number="27" sentence="4" t_id="73">.</token>
+  <token number="0" sentence="5" t_id="74">Michael</token>
+  <token number="1" sentence="5" t_id="75">O</token>
+  <token number="2" sentence="5" t_id="76">'</token>
+  <token number="3" sentence="5" t_id="77">Leary</token>
+  <token number="4" sentence="5" t_id="78">,</token>
+  <token number="5" sentence="5" t_id="79">CEO</token>
+  <token number="6" sentence="5" t_id="80">van</token>
+  <token number="7" sentence="5" t_id="81">Ryanair</token>
+  <token number="8" sentence="5" t_id="82">,</token>
+  <token number="9" sentence="5" t_id="83">verklaarde</token>
+  <token number="10" sentence="5" t_id="84">zijn</token>
+  <token number="11" sentence="5" t_id="85">keuze</token>
+  <token number="12" sentence="5" t_id="86">voor</token>
+  <token number="13" sentence="5" t_id="87">Boeing</token>
+  <token number="14" sentence="5" t_id="88">als</token>
+  <token number="15" sentence="5" t_id="89">volgt</token>
+  <token number="16" sentence="5" t_id="90">:</token>
+  <token number="17" sentence="5" t_id="91">``De</token>
+  <token number="18" sentence="5" t_id="92">Boeing</token>
+  <token number="19" sentence="5" t_id="93">737-800</token>
+  <token number="20" sentence="5" t_id="94">heeft</token>
+  <token number="21" sentence="5" t_id="95">de</token>
+  <token number="22" sentence="5" t_id="96">hoogste</token>
+  <token number="23" sentence="5" t_id="97">technische</token>
+  <token number="24" sentence="5" t_id="98">betrouwbaarheid</token>
+  <token number="25" sentence="5" t_id="99">en</token>
+  <token number="26" sentence="5" t_id="100">garandeert</token>
+  <token number="27" sentence="5" t_id="101">dat</token>
+  <token number="28" sentence="5" t_id="102">Ryanair</token>
+  <token number="29" sentence="5" t_id="103">van</token>
+  <token number="30" sentence="5" t_id="104">alle</token>
+  <token number="31" sentence="5" t_id="105">maatschappijen</token>
+  <token number="32" sentence="5" t_id="106">in</token>
+  <token number="33" sentence="5" t_id="107">Europa</token>
+  <token number="34" sentence="5" t_id="108">het</token>
+  <token number="35" sentence="5" t_id="109">grootste</token>
+  <token number="36" sentence="5" t_id="110">aantal</token>
+  <token number="37" sentence="5" t_id="111">vluchten</token>
+  <token number="38" sentence="5" t_id="112">op</token>
+  <token number="39" sentence="5" t_id="113">tijd</token>
+  <token number="40" sentence="5" t_id="114">vliegt</token>
+  <token number="41" sentence="5" t_id="115">'</token>
+  <token number="42" sentence="5" t_id="116">'</token>
+  <token number="43" sentence="5" t_id="117">.</token>
+  <token number="44" sentence="5" t_id="118">..</token>
+  <token number="45" sentence="5" t_id="119">``Daarnaast</token>
+  <token number="46" sentence="5" t_id="120">zijn</token>
+  <token number="47" sentence="5" t_id="121">de</token>
+  <token number="48" sentence="5" t_id="122">operationele</token>
+  <token number="49" sentence="5" t_id="123">kosten</token>
+  <token number="50" sentence="5" t_id="124">per</token>
+  <token number="51" sentence="5" t_id="125">vliegtuig</token>
+  <token number="52" sentence="5" t_id="126">het</token>
+  <token number="53" sentence="5" t_id="127">laagst</token>
+  <token number="54" sentence="5" t_id="128">.</token>
+  <token number="0" sentence="6" t_id="129">Met</token>
+  <token number="1" sentence="6" t_id="130">deze</token>
+  <token number="2" sentence="6" t_id="131">vijf</token>
+  <token number="3" sentence="6" t_id="132">nieuwe</token>
+  <token number="4" sentence="6" t_id="133">vliegtuigen</token>
+  <token number="5" sentence="6" t_id="134">kunnen</token>
+  <token number="6" sentence="6" t_id="135">we</token>
+  <token number="7" sentence="6" t_id="136">meer</token>
+  <token number="8" sentence="6" t_id="137">nieuwe</token>
+  <token number="9" sentence="6" t_id="138">routes</token>
+  <token number="10" sentence="6" t_id="139">door</token>
+  <token number="11" sentence="6" t_id="140">heel</token>
+  <token number="12" sentence="6" t_id="141">Europa</token>
+  <token number="13" sentence="6" t_id="142">ontwikkelen</token>
+  <token number="14" sentence="6" t_id="143">en</token>
+  <token number="15" sentence="6" t_id="144">onze</token>
+  <token number="16" sentence="6" t_id="145">lage</token>
+  <token number="17" sentence="6" t_id="146">tarieven</token>
+  <token number="18" sentence="6" t_id="147">aan</token>
+  <token number="19" sentence="6" t_id="148">veel</token>
+  <token number="20" sentence="6" t_id="149">meer</token>
+  <token number="21" sentence="6" t_id="150">Europese</token>
+  <token number="22" sentence="6" t_id="151">consumenten</token>
+  <token number="23" sentence="6" t_id="152">aanbieden</token>
+  <token number="24" sentence="6" t_id="153">.</token>
+  <token number="25" sentence="6" t_id="154">'</token>
+  <token number="26" sentence="6" t_id="155">'</token>
+  <token number="0" sentence="7" t_id="156">Ryanair</token>
+  <token number="1" sentence="7" t_id="157">is</token>
+  <token number="2" sentence="7" t_id="158">de</token>
+  <token number="3" sentence="7" t_id="159">meest</token>
+  <token number="4" sentence="7" t_id="160">winstgevende</token>
+  <token number="5" sentence="7" t_id="161">luchtvaartmaatschappij</token>
+  <token number="6" sentence="7" t_id="162">ter</token>
+  <token number="7" sentence="7" t_id="163">wereld</token>
+  <token number="8" sentence="7" t_id="164">en</token>
+  <token number="9" sentence="7" t_id="165">meldde</token>
+  <token number="10" sentence="7" t_id="166">eerder</token>
+  <token number="11" sentence="7" t_id="167">dit</token>
+  <token number="12" sentence="7" t_id="168">jaar</token>
+  <token number="13" sentence="7" t_id="169">een</token>
+  <token number="14" sentence="7" t_id="170">recordwinst</token>
+  <token number="15" sentence="7" t_id="171">van</token>
+  <token number="16" sentence="7" t_id="172">$</token>
+  <token number="17" sentence="7" t_id="173">269</token>
+  <token number="18" sentence="7" t_id="174">miljoen</token>
+  <token number="19" sentence="7" t_id="175">,</token>
+  <token number="20" sentence="7" t_id="176">waarbij</token>
+  <token number="21" sentence="7" t_id="177">een</token>
+  <token number="22" sentence="7" t_id="178">agressief</token>
+  <token number="23" sentence="7" t_id="179">groeibeleid</token>
+  <token number="24" sentence="7" t_id="180">wordt</token>
+  <token number="25" sentence="7" t_id="181">gevolgd</token>
+  <token number="26" sentence="7" t_id="182">om</token>
+  <token number="27" sentence="7" t_id="183">het</token>
+  <token number="28" sentence="7" t_id="184">totale</token>
+  <token number="29" sentence="7" t_id="185">aantal</token>
+  <token number="30" sentence="7" t_id="186">passagiers</token>
+  <token number="31" sentence="7" t_id="187">de</token>
+  <token number="32" sentence="7" t_id="188">komende</token>
+  <token number="33" sentence="7" t_id="189">jaren</token>
+  <token number="34" sentence="7" t_id="190">te</token>
+  <token number="35" sentence="7" t_id="191">verhogen</token>
+  <token number="36" sentence="7" t_id="192">tot</token>
+  <token number="37" sentence="7" t_id="193">70</token>
+  <token number="38" sentence="7" t_id="194">miljoen</token>
+  <token number="39" sentence="7" t_id="195">.</token>
+  <token number="0" sentence="8" t_id="196">Op</token>
+  <token number="1" sentence="8" t_id="197">dit</token>
+  <token number="2" sentence="8" t_id="198">moment</token>
+  <token number="3" sentence="8" t_id="199">heeft</token>
+  <token number="4" sentence="8" t_id="200">Ryanair</token>
+  <token number="5" sentence="8" t_id="201">91</token>
+  <token number="6" sentence="8" t_id="202">vliegtuigen</token>
+  <token number="7" sentence="8" t_id="203">met</token>
+  <token number="8" sentence="8" t_id="204">230</token>
+  <token number="9" sentence="8" t_id="205">machines</token>
+  <token number="10" sentence="8" t_id="206">in</token>
+  <token number="11" sentence="8" t_id="207">bestelling</token>
+  <token number="12" sentence="8" t_id="208">.</token>
+  <Markables>
+    <C-SIGNAL comment="" m_id="1">
+      <token_anchor t_id="64"/>
+    </C-SIGNAL>
+    <ENTITY_MENTION comment="" head="" m_id="29" syntactic_type="">
+      <token_anchor t_id="9"/>
+      <token_anchor t_id="10"/>
+      <token_anchor t_id="13"/>
+      <token_anchor t_id="12"/>
+      <token_anchor t_id="11"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION comment="" head="" m_id="188" syntactic_type="">
+      <token_anchor t_id="13"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION comment="" head="" m_id="30" syntactic_type="NAM">
+      <token_anchor t_id="81"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION comment="" head="" m_id="31" syntactic_type="">
+      <token_anchor t_id="19"/>
+      <token_anchor t_id="18"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION comment="" head="" m_id="191" syntactic_type="">
+      <token_anchor t_id="135"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION comment="" head="" m_id="32" syntactic_type="">
+      <token_anchor t_id="24"/>
+      <token_anchor t_id="25"/>
+      <token_anchor t_id="26"/>
+      <token_anchor t_id="27"/>
+      <token_anchor t_id="21"/>
+      <token_anchor t_id="22"/>
+      <token_anchor t_id="23"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION comment="" head="" m_id="192" syntactic_type="">
+      <token_anchor t_id="144"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION comment="" head="" m_id="33" syntactic_type="">
+      <token_anchor t_id="20"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION comment="" head="" m_id="34" syntactic_type="NAM">
+      <token_anchor t_id="6"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION comment="" head="" m_id="2" syntactic_type="PRE.NAM">
+      <token_anchor t_id="43"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION comment="" head="" m_id="3" syntactic_type="NAM">
+      <token_anchor t_id="23"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION comment="" head="" m_id="35" syntactic_type="">
+      <token_anchor t_id="92"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION comment="" head="" m_id="4" syntactic_type="">
+      <token_anchor t_id="25"/>
+      <token_anchor t_id="26"/>
+      <token_anchor t_id="27"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION comment="" head="" m_id="36" syntactic_type="">
+      <token_anchor t_id="21"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION comment="" head="" m_id="196" syntactic_type="">
+      <token_anchor t_id="156"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION comment="" head="" m_id="5" syntactic_type="NAM">
+      <token_anchor t_id="33"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION comment="" head="" m_id="6" syntactic_type="">
+      <token_anchor t_id="37"/>
+      <token_anchor t_id="36"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION comment="" head="" m_id="7" syntactic_type="">
+      <token_anchor t_id="44"/>
+      <token_anchor t_id="42"/>
+      <token_anchor t_id="43"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION comment="" head="" m_id="8" syntactic_type="">
+      <token_anchor t_id="46"/>
+      <token_anchor t_id="47"/>
+      <token_anchor t_id="48"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION comment="" head="" m_id="200" syntactic_type="">
+      <token_anchor t_id="200"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION comment="" head="" m_id="9" syntactic_type="">
+      <token_anchor t_id="55"/>
+      <token_anchor t_id="54"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION comment="" head="" m_id="10" syntactic_type="">
+      <token_anchor t_id="61"/>
+      <token_anchor t_id="62"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION comment="" head="" m_id="11" syntactic_type="">
+      <token_anchor t_id="65"/>
+      <token_anchor t_id="66"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION comment="" head="" m_id="12" syntactic_type="NAM">
+      <token_anchor t_id="77"/>
+      <token_anchor t_id="76"/>
+      <token_anchor t_id="75"/>
+      <token_anchor t_id="74"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION comment="" head="" m_id="13" syntactic_type="">
+      <token_anchor t_id="80"/>
+      <token_anchor t_id="81"/>
+      <token_anchor t_id="79"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION comment="" head="" m_id="14" syntactic_type="">
+      <token_anchor t_id="84"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION comment="" head="" m_id="15" syntactic_type="NAM">
+      <token_anchor t_id="87"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION comment="" head="" m_id="16" syntactic_type="NAM">
+      <token_anchor t_id="91"/>
+      <token_anchor t_id="93"/>
+      <token_anchor t_id="92"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION comment="" head="" m_id="17" syntactic_type="">
+      <token_anchor t_id="98"/>
+      <token_anchor t_id="95"/>
+      <token_anchor t_id="97"/>
+      <token_anchor t_id="96"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION comment="" head="" m_id="18" syntactic_type="NAM">
+      <token_anchor t_id="102"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION comment="" head="" m_id="19" syntactic_type="">
+      <token_anchor t_id="106"/>
+      <token_anchor t_id="107"/>
+      <token_anchor t_id="104"/>
+      <token_anchor t_id="105"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION comment="" head="" m_id="20" syntactic_type="">
+      <token_anchor t_id="108"/>
+      <token_anchor t_id="109"/>
+      <token_anchor t_id="111"/>
+      <token_anchor t_id="110"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION comment="" head="" m_id="21" syntactic_type="">
+      <token_anchor t_id="121"/>
+      <token_anchor t_id="122"/>
+      <token_anchor t_id="123"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION comment="" head="" m_id="22" syntactic_type="">
+      <token_anchor t_id="125"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION comment="" head="" m_id="23" syntactic_type="">
+      <token_anchor t_id="50"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION comment="" head="" m_id="24" syntactic_type="">
+      <token_anchor t_id="3"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION comment="" head="" m_id="25" syntactic_type="NAM">
+      <token_anchor t_id="1"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION comment="" head="" m_id="26" syntactic_type="PRE.NAM">
+      <token_anchor t_id="10"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION comment="" head="" m_id="27" syntactic_type="">
+      <token_anchor t_id="5"/>
+      <token_anchor t_id="7"/>
+      <token_anchor t_id="6"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION comment="" head="" m_id="28" syntactic_type="NAM">
+      <token_anchor t_id="107"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION comment="" head="" m_id="187" syntactic_type="">
+      <token_anchor t_id="7"/>
+      <token_anchor t_id="6"/>
+    </ENTITY_MENTION>
+    <EVENT_MENTION aspect="NONE" certainty="CERTAIN" comment="" m_id="189" modality="" polarity="POS" pos="NOUN" pred="keuze" special_cases="NONE" tense="NONE" time="NON_FUTURE">
+      <token_anchor t_id="85"/>
+    </EVENT_MENTION>
+    <EVENT_MENTION aspect="" certainty="" comment="" m_id="193" modality="" polarity="" pos="" pred="" special_cases="" tense="" time="">
+      <token_anchor t_id="142"/>
+    </EVENT_MENTION>
+    <EVENT_MENTION aspect="" certainty="" comment="" m_id="194" modality="" polarity="" pos="" pred="" special_cases="" tense="" time="">
+      <token_anchor t_id="152"/>
+    </EVENT_MENTION>
+    <EVENT_MENTION aspect="NONE" certainty="CERTAIN" comment="" m_id="37" modality="" polarity="POS" pos="VERB" pred="bevestigen" special_cases="NONE" tense="PRESENT" time="NON_FUTURE">
+      <token_anchor t_id="2"/>
+    </EVENT_MENTION>
+    <EVENT_MENTION aspect="" certainty="" comment="" m_id="197" modality="" polarity="" pos="" pred="" special_cases="" tense="" time="">
+      <token_anchor t_id="165"/>
+    </EVENT_MENTION>
+    <EVENT_MENTION aspect="NONE" certainty="CERTAIN" comment="" m_id="38" modality="" polarity="POS" pos="VERB" pred="aankondigen" special_cases="NONE" tense="PAST" time="NON_FUTURE">
+      <token_anchor t_id="14"/>
+      <token_anchor t_id="16"/>
+    </EVENT_MENTION>
+    <EVENT_MENTION aspect="" certainty="" comment="" m_id="198" modality="" polarity="" pos="" pred="" special_cases="" tense="" time="">
+      <token_anchor t_id="181"/>
+    </EVENT_MENTION>
+    <EVENT_MENTION aspect="NONE" certainty="CERTAIN" comment="" m_id="39" modality="" polarity="POS" pos="VERB" pred="uitoefenen" special_cases="NONE" tense="FUTURE" time="FUTURE">
+      <token_anchor t_id="29"/>
+    </EVENT_MENTION>
+    <EVENT_MENTION aspect="" certainty="" comment="" m_id="199" modality="" polarity="" pos="" pred="" special_cases="" tense="" time="">
+      <token_anchor t_id="199"/>
+    </EVENT_MENTION>
+    <EVENT_MENTION aspect="NONE" certainty="CERTAIN" comment="" m_id="40" modality="" polarity="POS" pos="VERB" pred="staan" special_cases="NONE" tense="PRESENT" time="NON_FUTURE">
+      <token_anchor t_id="39"/>
+      <token_anchor t_id="38"/>
+      <token_anchor t_id="40"/>
+    </EVENT_MENTION>
+    <EVENT_MENTION aspect="NONE" certainty="CERTAIN" comment="" m_id="41" modality="" polarity="POS" pos="VERB" pred="deel uitmaken van" special_cases="GEN" tense="PRESENT" time="NON_FUTURE">
+      <token_anchor t_id="51"/>
+      <token_anchor t_id="53"/>
+      <token_anchor t_id="52"/>
+    </EVENT_MENTION>
+    <EVENT_MENTION aspect="NONE" certainty="CERTAIN" comment="" m_id="42" modality="" polarity="POS" pos="VERB" pred="uitvoeren" special_cases="NONE" tense="PRESENT" time="FUTURE">
+      <token_anchor t_id="58"/>
+    </EVENT_MENTION>
+    <EVENT_MENTION aspect="NONE" certainty="POSSIBLE" comment="" m_id="43" modality="kan" polarity="POS" pos="VERB" pred="verbeteren" special_cases="NONE" tense="NONE" time="FUTURE">
+      <token_anchor t_id="72"/>
+    </EVENT_MENTION>
+    <EVENT_MENTION aspect="NONE" certainty="CERTAIN" comment="" m_id="44" modality="" polarity="POS" pos="VERB" pred="verklaren" special_cases="NONE" tense="PAST" time="NON_FUTURE">
+      <token_anchor t_id="83"/>
+    </EVENT_MENTION>
+    <EVENT_MENTION aspect="NONE" certainty="CERTAIN" comment="" m_id="45" modality="" polarity="POS" pos="VERB" pred="volgen" special_cases="NONE" tense="PRESENT" time="NON_FUTURE">
+      <token_anchor t_id="89"/>
+    </EVENT_MENTION>
+    <EVENT_MENTION aspect="NONE" certainty="CERTAIN" comment="" m_id="46" modality="" polarity="POS" pos="VERB" pred="garanderen" special_cases="NONE" tense="PRESENT" time="NON_FUTURE">
+      <token_anchor t_id="100"/>
+    </EVENT_MENTION>
+    <EVENT_MENTION aspect="NONE" certainty="CERTAIN" comment="" m_id="47" modality="" polarity="POS" pos="VERB" pred="vliegen" special_cases="GEN" tense="PRESENT" time="UNDERSPECIFIED">
+      <token_anchor t_id="114"/>
+    </EVENT_MENTION>
+    <EVENT_MENTION aspect="NONE" certainty="CERTAIN" comment="" m_id="48" modality="" polarity="POS" pos="OTHER" pred="laag" special_cases="NONE" tense="NONE" time="NON_FUTURE">
+      <token_anchor t_id="127"/>
+    </EVENT_MENTION>
+    <EVENT_MENTION aspect="NONE" certainty="UNDERSPECIFIED" comment="" m_id="49" modality="" polarity="POS" pos="VERB" pred="hebben" special_cases="GEN" tense="PRESENT" time="NON_FUTURE">
+      <token_anchor t_id="94"/>
+    </EVENT_MENTION>
+    <EVENT_MENTION aspect="NONE" certainty="CERTAIN" comment="" m_id="50" modality="" polarity="POS" pos="VERB" pred="zijn" special_cases="GEN" tense="PRESENT" time="NON_FUTURE">
+      <token_anchor t_id="120"/>
+    </EVENT_MENTION>
+    <TIMEX3 anchorTimeID="51" beginPoint="" comment="" endPoint="" functionInDocument="CREATION_TIME" m_id="51" type="DATE" value="2005-06-13">
+      <token_anchor t_id="8"/>
+    </TIMEX3>
+    <TIMEX3 anchorTimeID="51" beginPoint="" comment="" endPoint="" functionInDocument="NONE" m_id="52" type="DATE" value="2005-06-13">
+      <token_anchor t_id="15"/>
+    </TIMEX3>
+    <VALUE comment="" m_id="53" type="QUANTITY">
+      <token_anchor t_id="5"/>
+    </VALUE>
+    <VALUE comment="" m_id="54" type="QUANTITY">
+      <token_anchor t_id="25"/>
+    </VALUE>
+    <VALUE comment="" m_id="55" type="QUANTITY">
+      <token_anchor t_id="36"/>
+    </VALUE>
+    <VALUE comment="" m_id="56" type="PERCENT">
+      <token_anchor t_id="69"/>
+      <token_anchor t_id="70"/>
+    </VALUE>
+    <EVENT TAG_DESCRIPTOR="laag zijn" class="OTHER" comment="" external_ref="" m_id="57"/>
+    <EVENT TAG_DESCRIPTOR="vliegen" class="OTHER" comment="" external_ref="" m_id="58"/>
+    <EVENT TAG_DESCRIPTOR="volgen" class="SPEECH_COGNITIVE" comment="" external_ref="" m_id="60"/>
+    <ENTITY TAG_DESCRIPTOR="ierland" comment="" ent_class="" ent_type="LOC" external_ref="" m_id="71"/>
+    <ENTITY TAG_DESCRIPTOR="230 machines" comment="" ent_class="" ent_type="PRO" external_ref="" m_id="73"/>
+    
+    <ENTITY TAG_DESCRIPTOR="betrouwbaarheid" comment="" ent_class="" ent_type="" external_ref="" m_id="79"/>
+    <ENTITY TAG_DESCRIPTOR="maatschappijen" comment="" ent_class="" ent_type="ORG" external_ref="" m_id="80"/>
+    <ENTITY TAG_DESCRIPTOR="vluchten" comment="" ent_class="" ent_type="" external_ref="" m_id="82"/>
+    <ENTITY TAG_DESCRIPTOR="kosten" comment="" ent_class="" ent_type="FIN" external_ref="" m_id="83"/>
+    <ENTITY TAG_DESCRIPTOR="vliegtuig" comment="" ent_class="" ent_type="" external_ref="" m_id="84"/>
+    <ENTITY TAG_DESCRIPTOR="amerika" comment="" ent_class="" ent_type="LOC" external_ref="" m_id="85"/>
+    <EVENT TAG_DESCRIPTOR="fitted VUA" class="OTHER" instance_id="OTH39662318813250972" m_id="206"/>
+    <EVENT TAG_DESCRIPTOR="come VUA" class="OTHER" instance_id="OTH39661994074227549" m_id="209"/>
+    <EVENT TAG_DESCRIPTOR="boost VUA" class="OTHER" instance_id="OTH39660822346170023" m_id="207"/>
+    <EVENT TAG_DESCRIPTOR="11714-7-reported" class="OTHER" instance_id="OTH41483689052063209" m_id="225"/>
+    <EVENT TAG_DESCRIPTOR="11714-6-develop" class="OTHER" instance_id="OTH41484045524890897" m_id="224"/>
+    <EVENT TAG_DESCRIPTOR="fuel efficiency" class="OTHER" instance_id="OTH39662479817353310" m_id="215"/>
+    <EVENT TAG_DESCRIPTOR="11714-6-bring" class="OTHER" instance_id="OTH41484066980615630" m_id="223"/>
+    <EVENT TAG_DESCRIPTOR="ensures VUA" class="SPEECH_COGNITIVE" instance_id="SPE39663619540604809" m_id="203"/>
+    <EVENT TAG_DESCRIPTOR="choice VUA" class="OTHER" instance_id="OTH39661827931553051" m_id="218"/>
+    <EVENT TAG_DESCRIPTOR="announced VUA" class="SPEECH_COGNITIVE" instance_id="SPE39663466675670304" m_id="205"/>
+    <EVENT TAG_DESCRIPTOR="exercises VUA" class="OTHER" instance_id="OTH39662149497858879" m_id="204"/>
+    <EVENT TAG_DESCRIPTOR="orders VUA" class="OTHER" instance_id="OTH39662588519456648" m_id="208"/>
+    <EVENT TAG_DESCRIPTOR="pursuing VUA" class="OTHER" instance_id="OTH39664219350050199" m_id="222"/>
+    <EVENT TAG_DESCRIPTOR="have VUA" class="OTHER" instance_id="OTH40885843848241418" m_id="221"/>
+    <EVENT TAG_DESCRIPTOR="justified VUA" class="SPEECH_COGNITIVE" instance_id="SPE39663765004543308" m_id="201"/>
+    <ENTITY TAG_DESCRIPTOR="Europe" ent_type="LOC" external_ref="http://dbpedia.org/resource/Europe" instance_id="LOC27735665947140158" m_id="217"/>
+    <ENTITY TAG_DESCRIPTOR="Boeing 737 airliner" ent_type="PRO" external_ref="http://dbpedia.org/page/Boeing_737" instance_id="PRO27981186855435884" m_id="220"/>
+    <ENTITY TAG_DESCRIPTOR="5 new 737 aircraft" ent_type="PRO" instance_id="PRO39477509645841750" m_id="211"/>
+    <ENTITY TAG_DESCRIPTOR="option (finance)" ent_type="FIN" instance_id="FIN39477410956507459" m_id="202"/>
+    <ENTITY TAG_DESCRIPTOR="Blended winglets" ent_type="PRO" instance_id="PRO39477531737033009" m_id="214"/>
+    <ENTITY TAG_DESCRIPTOR="The 737-800 range" ent_type="PRO" instance_id="PRO39477555731536083" m_id="213"/>
+    <ENTITY TAG_DESCRIPTOR="Ryanair" ent_type="ORG" external_ref="http://dbpedia.org/page/Ryanair" instance_id="ORG37154720662549110" m_id="210"/>
+    <ENTITY TAG_DESCRIPTOR="Michael O'Leary (CEO of Ryanair)" ent_type="PER" external_ref="http://dbpedia.org/page/Michael_O%27Leary_(businessman)" instance_id="PER27984739632915023" m_id="216"/>
+    <ENTITY TAG_DESCRIPTOR="Boeing" ent_type="ORG" external_ref="http://dbpedia.org/page/Boeing" instance_id="ORG37154719725500990" m_id="212"/>
+  </Markables>
+  <Relations>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <CLINK c-signalID="1" comment="" r_id="331328">
+      <source m_id="42"/>
+      <target m_id="43"/>
+    </CLINK>
+    <SLINK comment="" r_id="331329">
+      <source m_id="44"/>
+      <target m_id="49"/>
+    </SLINK>
+    <SLINK comment="" r_id="331330">
+      <source m_id="44"/>
+      <target m_id="46"/>
+    </SLINK>
+    <SLINK comment="" r_id="331331">
+      <source m_id="44"/>
+      <target m_id="50"/>
+    </SLINK>
+    <SLINK comment="" r_id="331332">
+      <source m_id="38"/>
+      <target m_id="39"/>
+    </SLINK>
+    <SLINK comment="" r_id="331333">
+      <source m_id="46"/>
+      <target m_id="47"/>
+    </SLINK>
+    <GLINK comment="" r_id="331334">
+      <source m_id="50"/>
+      <target m_id="48"/>
+    </GLINK>
+    <TLINK comment="" r_id="331335" reltype="INCLUDES" signalID="">
+      <source m_id="51"/>
+      <target m_id="38"/>
+    </TLINK>
+    <TLINK comment="" r_id="331336" reltype="IS_INCLUDED" signalID="">
+      <source m_id="38"/>
+      <target m_id="52"/>
+    </TLINK>
+    <TLINK comment="" r_id="331337" reltype="BEFORE" signalID="">
+      <source m_id="38"/>
+      <target m_id="39"/>
+    </TLINK>
+    <TLINK comment="" r_id="331338" reltype="IAFTER" signalID="">
+      <source m_id="39"/>
+      <target m_id="40"/>
+    </TLINK>
+    <TLINK comment="" r_id="331339" reltype="SIMULTANEOUS" signalID="">
+      <source m_id="40"/>
+      <target m_id="42"/>
+    </TLINK>
+    <TLINK comment="" r_id="331340" reltype="BEFORE" signalID="">
+      <source m_id="42"/>
+      <target m_id="43"/>
+    </TLINK>
+    <TLINK comment="" r_id="331341" reltype="BEFORE" signalID="">
+      <source m_id="38"/>
+      <target m_id="44"/>
+    </TLINK>
+    <TLINK comment="" r_id="331342" reltype="INCLUDES" signalID="">
+      <source m_id="51"/>
+      <target m_id="44"/>
+    </TLINK>
+    <TLINK comment="" r_id="331343" reltype="SIMULTANEOUS" signalID="">
+      <source m_id="44"/>
+      <target m_id="49"/>
+    </TLINK>
+    <TLINK comment="" r_id="331344" reltype="SIMULTANEOUS" signalID="">
+      <source m_id="49"/>
+      <target m_id="46"/>
+    </TLINK>
+    <TLINK comment="" r_id="331345" reltype="SIMULTANEOUS" signalID="">
+      <source m_id="46"/>
+      <target m_id="47"/>
+    </TLINK>
+    <TLINK comment="" r_id="331346" reltype="SIMULTANEOUS" signalID="">
+      <source m_id="47"/>
+      <target m_id="50"/>
+    </TLINK>
+    <HAS_PARTICIPANT comment="" r_id="331347" sem_role="Arg0" sem_role_framework="PROPBANK">
+      <source m_id="37"/>
+      <target m_id="25"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT comment="" r_id="331348" sem_role="Arg1" sem_role_framework="PROPBANK">
+      <source m_id="37"/>
+      <target m_id="24"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT comment="" r_id="331349" sem_role="Arg2" sem_role_framework="PROPBANK">
+      <source m_id="40"/>
+      <target m_id="7"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT comment="" r_id="331350" sem_role="Arg0" sem_role_framework="PROPBANK">
+      <source m_id="38"/>
+      <target m_id="29"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT comment="" r_id="331351" sem_role="Arg0" sem_role_framework="PROPBANK">
+      <source m_id="40"/>
+      <target m_id="6"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT comment="" r_id="331352" sem_role="Arg1" sem_role_framework="PROPBANK">
+      <source m_id="38"/>
+      <target m_id="39"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT comment="" r_id="331353" sem_role="Arg0" sem_role_framework="PROPBANK">
+      <source m_id="39"/>
+      <target m_id="31"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT comment="" r_id="331354" sem_role="Arg2" sem_role_framework="PROPBANK">
+      <source m_id="40"/>
+      <target m_id="5"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT comment="" r_id="331355" sem_role="Arg1" sem_role_framework="PROPBANK">
+      <source m_id="39"/>
+      <target m_id="36"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT comment="" r_id="331356" sem_role="Arg0" sem_role_framework="PROPBANK">
+      <source m_id="41"/>
+      <target m_id="8"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT comment="" r_id="331357" sem_role="Arg1" sem_role_framework="PROPBANK">
+      <source m_id="41"/>
+      <target m_id="9"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT comment="" r_id="331358" sem_role="Arg1" sem_role_framework="PROPBANK">
+      <source m_id="42"/>
+      <target m_id="8"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT comment="" r_id="331360" sem_role="Arg1" sem_role_framework="PROPBANK">
+      <source m_id="43"/>
+      <target m_id="11"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT comment="" r_id="331361" sem_role="Arg0" sem_role_framework="PROPBANK">
+      <source m_id="44"/>
+      <target m_id="12"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT comment="" r_id="331363" sem_role="Arg0" sem_role_framework="PROPBANK">
+      <source m_id="49"/>
+      <target m_id="16"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT comment="" r_id="331364" sem_role="Arg1" sem_role_framework="PROPBANK">
+      <source m_id="49"/>
+      <target m_id="17"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT comment="" r_id="331365" sem_role="Arg0" sem_role_framework="PROPBANK">
+      <source m_id="46"/>
+      <target m_id="16"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT comment="" r_id="331366" sem_role="Arg1" sem_role_framework="PROPBANK">
+      <source m_id="46"/>
+      <target m_id="47"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT comment="" r_id="331367" sem_role="Arg0" sem_role_framework="PROPBANK">
+      <source m_id="47"/>
+      <target m_id="18"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT comment="" r_id="331368" sem_role="Arg1" sem_role_framework="PROPBANK">
+      <source m_id="47"/>
+      <target m_id="20"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT comment="" r_id="331369" sem_role="Arg1" sem_role_framework="PROPBANK">
+      <source m_id="50"/>
+      <target m_id="21"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT comment="" r_id="331370" sem_role="Arg2" sem_role_framework="PROPBANK">
+      <source m_id="50"/>
+      <target m_id="48"/>
+    </HAS_PARTICIPANT>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <REFERS_TO r_id="360449">
+<source m_id="12"/>
+<source m_id="13"/>
+<source m_id="14"/>
+<target m_id="216"/>
+</REFERS_TO>
+<REFERS_TO r_id="360450">
+<source m_id="28"/>
+<target m_id="217"/>
+</REFERS_TO>
+<REFERS_TO r_id="360451">
+<source m_id="10"/>
+<target m_id="214"/>
+</REFERS_TO>
+<REFERS_TO r_id="360452">
+<source m_id="11"/>
+<target m_id="215"/>
+</REFERS_TO>
+<REFERS_TO r_id="360453">
+<source m_id="3"/>
+<source m_id="7"/>
+<source m_id="15"/>
+<source m_id="34"/>
+<source m_id="35"/>
+<target m_id="212"/>
+</REFERS_TO>
+<REFERS_TO r_id="360454">
+<source m_id="9"/>
+<source m_id="16"/>
+<target m_id="213"/>
+</REFERS_TO>
+<REFERS_TO r_id="360455">
+<source m_id="5"/>
+<source m_id="18"/>
+<source m_id="25"/>
+<source m_id="29"/>
+<source m_id="30"/>
+<source m_id="31"/>
+<source m_id="33"/>
+<source m_id="200"/>
+<source m_id="196"/>
+<source m_id="191"/>
+<target m_id="210"/>
+</REFERS_TO>
+<REFERS_TO r_id="360456">
+<source m_id="4"/>
+<source m_id="8"/>
+<source m_id="23"/>
+<source m_id="27"/>
+<target m_id="211"/>
+</REFERS_TO>
+<REFERS_TO r_id="360457">
+<source m_id="189"/>
+<target m_id="218"/>
+</REFERS_TO>
+<REFERS_TO r_id="360458">
+<source m_id="45"/>
+<target m_id="60"/>
+</REFERS_TO>
+<REFERS_TO r_id="360459">
+<source m_id="20"/>
+<target m_id="82"/>
+</REFERS_TO>
+<REFERS_TO r_id="360460">
+<source m_id="21"/>
+<target m_id="83"/>
+</REFERS_TO>
+<REFERS_TO r_id="360461">
+<source m_id="19"/>
+<target m_id="80"/>
+</REFERS_TO>
+<REFERS_TO r_id="360462">
+<source m_id="22"/>
+<target m_id="84"/>
+</REFERS_TO>
+<REFERS_TO r_id="360463">
+<source m_id="2"/>
+<target m_id="85"/>
+</REFERS_TO>
+<REFERS_TO r_id="360464">
+<source m_id="199"/>
+<target m_id="221"/>
+</REFERS_TO>
+<REFERS_TO r_id="360465">
+<source m_id="44"/>
+<target m_id="201"/>
+</REFERS_TO>
+<REFERS_TO r_id="360466">
+<source m_id="46"/>
+<target m_id="203"/>
+</REFERS_TO>
+<REFERS_TO r_id="360467">
+<source m_id="24"/>
+<source m_id="32"/>
+<source m_id="36"/>
+<target m_id="202"/>
+</REFERS_TO>
+<REFERS_TO r_id="360468">
+<source m_id="38"/>
+<target m_id="205"/>
+</REFERS_TO>
+<REFERS_TO r_id="360469">
+<source m_id="39"/>
+<source m_id="37"/>
+<target m_id="204"/>
+</REFERS_TO>
+<REFERS_TO r_id="360470">
+<source m_id="43"/>
+<target m_id="207"/>
+</REFERS_TO>
+<REFERS_TO r_id="360471">
+<source m_id="42"/>
+<target m_id="206"/>
+</REFERS_TO>
+<REFERS_TO r_id="360472">
+<source m_id="41"/>
+<target m_id="209"/>
+</REFERS_TO>
+<REFERS_TO r_id="360473">
+<source m_id="40"/>
+<target m_id="208"/>
+</REFERS_TO>
+<REFERS_TO r_id="360474">
+<source m_id="6"/>
+<target m_id="73"/>
+</REFERS_TO>
+<REFERS_TO r_id="360475">
+<source m_id="26"/>
+<target m_id="71"/>
+</REFERS_TO>
+<REFERS_TO r_id="360476">
+<source m_id="197"/>
+<target m_id="225"/>
+</REFERS_TO>
+<REFERS_TO r_id="360477">
+<source m_id="193"/>
+<target m_id="224"/>
+</REFERS_TO>
+<REFERS_TO r_id="360478">
+<source m_id="194"/>
+<target m_id="223"/>
+</REFERS_TO>
+<REFERS_TO r_id="360479">
+<source m_id="198"/>
+<target m_id="222"/>
+</REFERS_TO>
+<REFERS_TO r_id="360480">
+<source m_id="17"/>
+<target m_id="79"/>
+</REFERS_TO>
+<REFERS_TO r_id="360481">
+<source m_id="187"/>
+<target m_id="220"/>
+</REFERS_TO>
+<REFERS_TO r_id="360482">
+<source m_id="47"/>
+<target m_id="58"/>
+</REFERS_TO>
+<REFERS_TO r_id="360483">
+<source m_id="48"/>
+<target m_id="57"/>
+</REFERS_TO>
+</Relations>
+</Document>

@@ -1,0 +1,665 @@
+<?xml version="1.0" ?><Document doc_id="120554" doc_name="120554_GM,_Chrysler_offer_buyouts_and_early_retirement_to_workers" lang="nl" url="http://en.wikinews.org/wiki/GM,_Chrysler_offer_buyouts_and_early_retirement_to_workers">
+  <token number="0" sentence="0" t_id="1">GM</token>
+  <token number="1" sentence="0" t_id="2">,</token>
+  <token number="2" sentence="0" t_id="3">Chrysler</token>
+  <token number="3" sentence="0" t_id="4">bieden</token>
+  <token number="4" sentence="0" t_id="5">werknemers</token>
+  <token number="5" sentence="0" t_id="6">afkoop</token>
+  <token number="6" sentence="0" t_id="7">en</token>
+  <token number="7" sentence="0" t_id="8">vervroegd</token>
+  <token number="8" sentence="0" t_id="9">pensioen</token>
+  <token number="9" sentence="0" t_id="10">aan</token>
+  <token number="10" sentence="1" t_id="11">03-Feb-09</token>
+  <token number="11" sentence="2" t_id="12">General</token>
+  <token number="12" sentence="2" t_id="13">Motors</token>
+  <token number="13" sentence="2" t_id="14">(</token>
+  <token number="14" sentence="2" t_id="15">GM</token>
+  <token number="15" sentence="2" t_id="16">)</token>
+  <token number="16" sentence="2" t_id="17">en</token>
+  <token number="17" sentence="2" t_id="18">Chrysler</token>
+  <token number="18" sentence="2" t_id="19">zijn</token>
+  <token number="19" sentence="2" t_id="20">begonnen</token>
+  <token number="20" sentence="2" t_id="21">hun</token>
+  <token number="21" sentence="2" t_id="22">werknemers</token>
+  <token number="22" sentence="2" t_id="23">een</token>
+  <token number="23" sentence="2" t_id="24">ontslagregeling</token>
+  <token number="24" sentence="2" t_id="25">aan</token>
+  <token number="25" sentence="2" t_id="26">te</token>
+  <token number="26" sentence="2" t_id="27">bieden</token>
+  <token number="27" sentence="2" t_id="28">.</token>
+  <token number="0" sentence="3" t_id="29">&quot;</token>
+  <token number="1" sentence="3" t_id="30">De</token>
+  <token number="2" sentence="3" t_id="31">autofabrikanten</token>
+  <token number="3" sentence="3" t_id="32">hebben</token>
+  <token number="4" sentence="3" t_id="33">zwaar</token>
+  <token number="5" sentence="3" t_id="34">te</token>
+  <token number="6" sentence="3" t_id="35">lijden</token>
+  <token number="7" sentence="3" t_id="36">onder</token>
+  <token number="8" sentence="3" t_id="37">de</token>
+  <token number="9" sentence="3" t_id="38">recente</token>
+  <token number="10" sentence="3" t_id="39">economische</token>
+  <token number="11" sentence="3" t_id="40">omstandigheden</token>
+  <token number="12" sentence="3" t_id="41">;</token>
+  <token number="13" sentence="3" t_id="42">ze</token>
+  <token number="14" sentence="3" t_id="43">hebben</token>
+  <token number="15" sentence="3" t_id="44">de</token>
+  <token number="16" sentence="3" t_id="45">Amerikaanse</token>
+  <token number="17" sentence="3" t_id="46">staat</token>
+  <token number="18" sentence="3" t_id="47">al</token>
+  <token number="19" sentence="3" t_id="48">om</token>
+  <token number="20" sentence="3" t_id="49">hulp</token>
+  <token number="21" sentence="3" t_id="50">gevraagd</token>
+  <token number="22" sentence="3" t_id="51">.</token>
+  <token number="23" sentence="3" t_id="52">&quot;</token>
+  <token number="24" sentence="4" t_id="53">Er</token>
+  <token number="25" sentence="4" t_id="54">wordt</token>
+  <token number="26" sentence="4" t_id="55">gezegd</token>
+  <token number="27" sentence="4" t_id="56">dat</token>
+  <token number="28" sentence="4" t_id="57">de</token>
+  <token number="29" sentence="4" t_id="58">regeling</token>
+  <token number="30" sentence="4" t_id="59">van</token>
+  <token number="31" sentence="4" t_id="60">GM</token>
+  <token number="32" sentence="4" t_id="61">een</token>
+  <token number="33" sentence="4" t_id="62">bedrag</token>
+  <token number="34" sentence="4" t_id="63">van</token>
+  <token number="35" sentence="4" t_id="64">20.000</token>
+  <token number="36" sentence="4" t_id="65">dollar</token>
+  <token number="37" sentence="4" t_id="66">en</token>
+  <token number="38" sentence="4" t_id="67">een</token>
+  <token number="39" sentence="4" t_id="68">tegoed</token>
+  <token number="40" sentence="4" t_id="69">van</token>
+  <token number="41" sentence="4" t_id="70">25.000</token>
+  <token number="42" sentence="4" t_id="71">dollar</token>
+  <token number="43" sentence="4" t_id="72">voor</token>
+  <token number="44" sentence="4" t_id="73">een</token>
+  <token number="45" sentence="4" t_id="74">nieuwe</token>
+  <token number="46" sentence="4" t_id="75">auto</token>
+  <token number="47" sentence="4" t_id="76">omvat</token>
+  <token number="48" sentence="4" t_id="77">.</token>
+  <token number="0" sentence="5" t_id="78">Chrysler</token>
+  <token number="1" sentence="5" t_id="79">biedt</token>
+  <token number="2" sentence="5" t_id="80">een</token>
+  <token number="3" sentence="5" t_id="81">tegoed</token>
+  <token number="4" sentence="5" t_id="82">van</token>
+  <token number="5" sentence="5" t_id="83">25.000</token>
+  <token number="6" sentence="5" t_id="84">dollar</token>
+  <token number="7" sentence="5" t_id="85">voor</token>
+  <token number="8" sentence="5" t_id="86">een</token>
+  <token number="9" sentence="5" t_id="87">auto</token>
+  <token number="10" sentence="5" t_id="88">en</token>
+  <token number="11" sentence="5" t_id="89">50.000</token>
+  <token number="12" sentence="5" t_id="90">met</token>
+  <token number="13" sentence="5" t_id="91">zorgverzekering</token>
+  <token number="14" sentence="5" t_id="92">en</token>
+  <token number="15" sentence="5" t_id="93">75.000</token>
+  <token number="16" sentence="5" t_id="94">dollar</token>
+  <token number="17" sentence="5" t_id="95">zonder</token>
+  <token number="18" sentence="5" t_id="96">.</token>
+  <token number="0" sentence="6" t_id="97">Beide</token>
+  <token number="1" sentence="6" t_id="98">bieden</token>
+  <token number="2" sentence="6" t_id="99">deze</token>
+  <token number="3" sentence="6" t_id="100">deal</token>
+  <token number="4" sentence="6" t_id="101">aan</token>
+  <token number="5" sentence="6" t_id="102">aan</token>
+  <token number="6" sentence="6" t_id="103">het</token>
+  <token number="7" sentence="6" t_id="104">merendeel</token>
+  <token number="8" sentence="6" t_id="105">van</token>
+  <token number="9" sentence="6" t_id="106">de</token>
+  <token number="10" sentence="6" t_id="107">vakbondsleden</token>
+  <token number="11" sentence="6" t_id="108">die</token>
+  <token number="12" sentence="6" t_id="109">zijn</token>
+  <token number="13" sentence="6" t_id="110">aangesloten</token>
+  <token number="14" sentence="6" t_id="111">bij</token>
+  <token number="15" sentence="6" t_id="112">United</token>
+  <token number="16" sentence="6" t_id="113">Auto</token>
+  <token number="17" sentence="6" t_id="114">Workers</token>
+  <token number="18" sentence="6" t_id="115">(</token>
+  <token number="19" sentence="6" t_id="116">UAW</token>
+  <token number="20" sentence="6" t_id="117">)</token>
+  <token number="21" sentence="6" t_id="118">:</token>
+  <token number="22" sentence="6" t_id="119">62.000</token>
+  <token number="23" sentence="6" t_id="120">man</token>
+  <token number="24" sentence="6" t_id="121">bij</token>
+  <token number="25" sentence="6" t_id="122">GM</token>
+  <token number="26" sentence="6" t_id="123">,</token>
+  <token number="27" sentence="6" t_id="124">dat</token>
+  <token number="28" sentence="6" t_id="125">eind</token>
+  <token number="29" sentence="6" t_id="126">2012</token>
+  <token number="30" sentence="6" t_id="127">31.500</token>
+  <token number="31" sentence="6" t_id="128">banen</token>
+  <token number="32" sentence="6" t_id="129">wil</token>
+  <token number="33" sentence="6" t_id="130">hebben</token>
+  <token number="34" sentence="6" t_id="131">geschrapt</token>
+  <token number="35" sentence="6" t_id="132">.</token>
+  <token number="0" sentence="7" t_id="133">De</token>
+  <token number="1" sentence="7" t_id="134">twee</token>
+  <token number="2" sentence="7" t_id="135">bedrijven</token>
+  <token number="3" sentence="7" t_id="136">hebben</token>
+  <token number="4" sentence="7" t_id="137">13,4</token>
+  <token number="5" sentence="7" t_id="138">miljard</token>
+  <token number="6" sentence="7" t_id="139">dollar</token>
+  <token number="7" sentence="7" t_id="140">aan</token>
+  <token number="8" sentence="7" t_id="141">staatsleningen</token>
+  <token number="9" sentence="7" t_id="142">ontvangen</token>
+  <token number="10" sentence="7" t_id="143">om</token>
+  <token number="11" sentence="7" t_id="144">te</token>
+  <token number="12" sentence="7" t_id="145">kunnen</token>
+  <token number="13" sentence="7" t_id="146">blijven</token>
+  <token number="14" sentence="7" t_id="147">bestaan</token>
+  <token number="15" sentence="7" t_id="148">maar</token>
+  <token number="16" sentence="7" t_id="149">het</token>
+  <token number="17" sentence="7" t_id="150">Congres</token>
+  <token number="18" sentence="7" t_id="151">eiste</token>
+  <token number="19" sentence="7" t_id="152">dat</token>
+  <token number="20" sentence="7" t_id="153">ze</token>
+  <token number="21" sentence="7" t_id="154">in</token>
+  <token number="22" sentence="7" t_id="155">ruil</token>
+  <token number="23" sentence="7" t_id="156">daarvoor</token>
+  <token number="24" sentence="7" t_id="157">een</token>
+  <token number="25" sentence="7" t_id="158">levensvatbaarheidsplan</token>
+  <token number="26" sentence="7" t_id="159">indienen</token>
+  <token number="27" sentence="7" t_id="160">,</token>
+  <token number="28" sentence="7" t_id="161">waarin</token>
+  <token number="29" sentence="7" t_id="162">wordt</token>
+  <token number="30" sentence="7" t_id="163">aangetoond</token>
+  <token number="31" sentence="7" t_id="164">dat</token>
+  <token number="32" sentence="7" t_id="165">ze</token>
+  <token number="33" sentence="7" t_id="166">aanzienlijke</token>
+  <token number="34" sentence="7" t_id="167">kostenbesparingen</token>
+  <token number="35" sentence="7" t_id="168">realiseren</token>
+  <token number="36" sentence="7" t_id="169">en</token>
+  <token number="37" sentence="7" t_id="170">banen</token>
+  <token number="38" sentence="7" t_id="171">schrappen</token>
+  <token number="39" sentence="7" t_id="172">.</token>
+  <token number="0" sentence="8" t_id="173">&quot;</token>
+  <token number="1" sentence="8" t_id="174">UAW-leden</token>
+  <token number="2" sentence="8" t_id="175">in</token>
+  <token number="3" sentence="8" t_id="176">Detroit</token>
+  <token number="4" sentence="8" t_id="177">verdienen</token>
+  <token number="5" sentence="8" t_id="178">28</token>
+  <token number="6" sentence="8" t_id="179">dollar</token>
+  <token number="7" sentence="8" t_id="180">per</token>
+  <token number="8" sentence="8" t_id="181">uur</token>
+  <token number="9" sentence="8" t_id="182">;</token>
+  <token number="10" sentence="8" t_id="183">nieuwe</token>
+  <token number="11" sentence="8" t_id="184">werknemers</token>
+  <token number="12" sentence="8" t_id="185">zullen</token>
+  <token number="13" sentence="8" t_id="186">ongeveer</token>
+  <token number="14" sentence="8" t_id="187">de</token>
+  <token number="15" sentence="8" t_id="188">helft</token>
+  <token number="16" sentence="8" t_id="189">krijgen</token>
+  <token number="17" sentence="8" t_id="190">.</token>
+  <token number="18" sentence="8" t_id="191">&quot;</token>
+  <token number="19" sentence="9" t_id="192">De</token>
+  <token number="20" sentence="9" t_id="193">``banenbank</token>
+  <token number="21" sentence="9" t_id="194">'</token>
+  <token number="22" sentence="9" t_id="195">'</token>
+  <token number="23" sentence="9" t_id="196">van</token>
+  <token number="24" sentence="9" t_id="197">het</token>
+  <token number="25" sentence="9" t_id="198">UAW</token>
+  <token number="26" sentence="9" t_id="199">,</token>
+  <token number="27" sentence="9" t_id="200">een</token>
+  <token number="28" sentence="9" t_id="201">systeem</token>
+  <token number="29" sentence="9" t_id="202">waarbij</token>
+  <token number="30" sentence="9" t_id="203">niet</token>
+  <token number="31" sentence="9" t_id="204">werkende</token>
+  <token number="32" sentence="9" t_id="205">werknemers</token>
+  <token number="33" sentence="9" t_id="206">toch</token>
+  <token number="34" sentence="9" t_id="207">worden</token>
+  <token number="35" sentence="9" t_id="208">betaald</token>
+  <token number="36" sentence="9" t_id="209">,</token>
+  <token number="37" sentence="9" t_id="210">is</token>
+  <token number="38" sentence="9" t_id="211">bij</token>
+  <token number="39" sentence="9" t_id="212">beide</token>
+  <token number="40" sentence="9" t_id="213">bedrijven</token>
+  <token number="41" sentence="9" t_id="214">stopgezet</token>
+  <token number="42" sentence="9" t_id="215">.</token>
+  <token number="0" sentence="10" t_id="216">GM</token>
+  <token number="1" sentence="10" t_id="217">probeert</token>
+  <token number="2" sentence="10" t_id="218">daarnaast</token>
+  <token number="3" sentence="10" t_id="219">een</token>
+  <token number="4" sentence="10" t_id="220">``debt-for-equity</token>
+  <token number="5" sentence="10" t_id="221">swap</token>
+  <token number="6" sentence="10" t_id="222">'</token>
+  <token number="7" sentence="10" t_id="223">'</token>
+  <token number="8" sentence="10" t_id="224">te</token>
+  <token number="9" sentence="10" t_id="225">realiseren</token>
+  <token number="10" sentence="10" t_id="226">,</token>
+  <token number="11" sentence="10" t_id="227">waardoor</token>
+  <token number="12" sentence="10" t_id="228">27,5</token>
+  <token number="13" sentence="10" t_id="229">miljard</token>
+  <token number="14" sentence="10" t_id="230">dollar</token>
+  <token number="15" sentence="10" t_id="231">aan</token>
+  <token number="16" sentence="10" t_id="232">ongedekte</token>
+  <token number="17" sentence="10" t_id="233">schulden</token>
+  <token number="18" sentence="10" t_id="234">wordt</token>
+  <token number="19" sentence="10" t_id="235">omgezet</token>
+  <token number="20" sentence="10" t_id="236">naar</token>
+  <token number="21" sentence="10" t_id="237">9,2</token>
+  <token number="22" sentence="10" t_id="238">miljard</token>
+  <token number="23" sentence="10" t_id="239">.</token>
+  <token number="0" sentence="11" t_id="240">Het</token>
+  <token number="1" sentence="11" t_id="241">bedrijf</token>
+  <token number="2" sentence="11" t_id="242">wil</token>
+  <token number="3" sentence="11" t_id="243">ook</token>
+  <token number="4" sentence="11" t_id="244">een</token>
+  <token number="5" sentence="11" t_id="245">vrachtwagenfabrikant</token>
+  <token number="6" sentence="11" t_id="246">,</token>
+  <token number="7" sentence="11" t_id="247">de</token>
+  <token number="8" sentence="11" t_id="248">onderdelengroep</token>
+  <token number="9" sentence="11" t_id="249">Delco</token>
+  <token number="10" sentence="11" t_id="250">Electronics</token>
+  <token number="11" sentence="11" t_id="251">en</token>
+  <token number="12" sentence="11" t_id="252">automerken</token>
+  <token number="13" sentence="11" t_id="253">Hummer</token>
+  <token number="14" sentence="11" t_id="254">en</token>
+  <token number="15" sentence="11" t_id="255">Saab</token>
+  <token number="16" sentence="11" t_id="256">Automobile</token>
+  <token number="17" sentence="11" t_id="257">verkopen</token>
+  <token number="18" sentence="11" t_id="258">.</token>
+  <token number="0" sentence="12" t_id="259">De</token>
+  <token number="1" sentence="12" t_id="260">hele</token>
+  <token number="2" sentence="12" t_id="261">autosector</token>
+  <token number="3" sentence="12" t_id="262">lijdt</token>
+  <token number="4" sentence="12" t_id="263">onder</token>
+  <token number="5" sentence="12" t_id="264">de</token>
+  <token number="6" sentence="12" t_id="265">recessie</token>
+  <token number="7" sentence="12" t_id="266">en</token>
+  <token number="8" sentence="12" t_id="267">ook</token>
+  <token number="9" sentence="12" t_id="268">Ford</token>
+  <token number="10" sentence="12" t_id="269">Motor</token>
+  <token number="11" sentence="12" t_id="270">Company</token>
+  <token number="12" sentence="12" t_id="271">heeft</token>
+  <token number="13" sentence="12" t_id="272">een</token>
+  <token number="14" sentence="12" t_id="273">jaarverlies</token>
+  <token number="15" sentence="12" t_id="274">van</token>
+  <token number="16" sentence="12" t_id="275">14,6</token>
+  <token number="17" sentence="12" t_id="276">miljard</token>
+  <token number="18" sentence="12" t_id="277">dollar</token>
+  <token number="19" sentence="12" t_id="278">gerapporteerd</token>
+  <token number="20" sentence="12" t_id="279">,</token>
+  <token number="21" sentence="12" t_id="280">alhoewel</token>
+  <token number="22" sentence="12" t_id="281">dit</token>
+  <token number="23" sentence="12" t_id="282">bedrijf</token>
+  <token number="24" sentence="12" t_id="283">niet</token>
+  <token number="25" sentence="12" t_id="284">om</token>
+  <token number="26" sentence="12" t_id="285">staatshulp</token>
+  <token number="27" sentence="12" t_id="286">heeft</token>
+  <token number="28" sentence="12" t_id="287">gevraagd</token>
+  <token number="29" sentence="12" t_id="288">.</token>
+  <token number="0" sentence="13" t_id="289">Het</token>
+  <token number="1" sentence="13" t_id="290">werkkapitaal</token>
+  <token number="2" sentence="13" t_id="291">van</token>
+  <token number="3" sentence="13" t_id="292">GM</token>
+  <token number="4" sentence="13" t_id="293">en</token>
+  <token number="5" sentence="13" t_id="294">Chrysler</token>
+  <token number="6" sentence="13" t_id="295">was</token>
+  <token number="7" sentence="13" t_id="296">in</token>
+  <token number="8" sentence="13" t_id="297">december</token>
+  <token number="9" sentence="13" t_id="298">uitgeput</token>
+  <token number="10" sentence="13" t_id="299">,</token>
+  <token number="11" sentence="13" t_id="300">wat</token>
+  <token number="12" sentence="13" t_id="301">leidde</token>
+  <token number="13" sentence="13" t_id="302">tot</token>
+  <token number="14" sentence="13" t_id="303">de</token>
+  <token number="15" sentence="13" t_id="304">staatshulp</token>
+  <token number="16" sentence="13" t_id="305">.</token>
+  <Markables>
+    <ENTITY_MENTION comment="" head="" m_id="1" syntactic_type="CONJ">
+      <token_anchor t_id="1"/>
+      <token_anchor t_id="3"/>
+      <token_anchor t_id="2"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION comment="" head="" m_id="2" syntactic_type="NAM">
+      <token_anchor t_id="1"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION comment="" head="" m_id="53" syntactic_type="">
+      <token_anchor t_id="42"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION comment="" head="" m_id="3" syntactic_type="">
+      <token_anchor t_id="3"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION comment="" head="" m_id="4" syntactic_type="">
+      <token_anchor t_id="5"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION comment="" head="" m_id="5" syntactic_type="">
+      <token_anchor t_id="9"/>
+      <token_anchor t_id="8"/>
+      <token_anchor t_id="7"/>
+      <token_anchor t_id="6"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION comment="" head="" m_id="6" syntactic_type="">
+      <token_anchor t_id="6"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION comment="" head="" m_id="7" syntactic_type="">
+      <token_anchor t_id="9"/>
+      <token_anchor t_id="8"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION comment="" head="" m_id="8" syntactic_type="NAM">
+      <token_anchor t_id="13"/>
+      <token_anchor t_id="12"/>
+      <token_anchor t_id="15"/>
+      <token_anchor t_id="14"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION comment="" head="" m_id="9" syntactic_type="">
+      <token_anchor t_id="18"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION comment="" head="" m_id="10" syntactic_type="">
+      <token_anchor t_id="21"/>
+      <token_anchor t_id="22"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION comment="" head="" m_id="11" syntactic_type="">
+      <token_anchor t_id="31"/>
+      <token_anchor t_id="30"/>
+      <token_anchor t_id="29"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION comment="" head="" m_id="12" syntactic_type="">
+      <token_anchor t_id="46"/>
+      <token_anchor t_id="44"/>
+      <token_anchor t_id="45"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION comment="" head="" m_id="13" syntactic_type="NAM">
+      <token_anchor t_id="60"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION comment="" head="" m_id="14" syntactic_type="">
+      <token_anchor t_id="75"/>
+      <token_anchor t_id="74"/>
+      <token_anchor t_id="73"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION comment="" head="" m_id="15" syntactic_type="NAM">
+      <token_anchor t_id="78"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION comment="" head="" m_id="16" syntactic_type="">
+      <token_anchor t_id="86"/>
+      <token_anchor t_id="87"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION comment="" head="" m_id="17" syntactic_type="">
+      <token_anchor t_id="91"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION comment="" head="" m_id="28" syntactic_type="">
+      <token_anchor t_id="24"/>
+      <token_anchor t_id="23"/>
+    </ENTITY_MENTION>
+    <ENTITY_MENTION comment="" head="" m_id="30" syntactic_type="">
+      <token_anchor t_id="45"/>
+    </ENTITY_MENTION>
+    <EVENT_MENTION aspect="NONE" certainty="CERTAIN" comment="" m_id="32" modality="" polarity="POS" pos="VERB" pred="aanbieden" special_cases="NONE" tense="PRESENT" time="NON_FUTURE">
+      <token_anchor t_id="10"/>
+      <token_anchor t_id="4"/>
+    </EVENT_MENTION>
+    <EVENT_MENTION aspect="NONE" certainty="CERTAIN" comment="" m_id="33" modality="" polarity="POS" pos="VERB" pred="beginnen" special_cases="NONE" tense="PRESENT" time="NON_FUTURE">
+      <token_anchor t_id="20"/>
+    </EVENT_MENTION>
+    <EVENT_MENTION aspect="NONE" certainty="CERTAIN" comment="" m_id="34" modality="" polarity="POS" pos="VERB" pred="aanbieden" special_cases="NONE" tense="INFINITIVE" time="NON_FUTURE">
+      <token_anchor t_id="25"/>
+      <token_anchor t_id="26"/>
+      <token_anchor t_id="27"/>
+    </EVENT_MENTION>
+    <EVENT_MENTION aspect="NONE" certainty="CERTAIN" comment="" m_id="35" modality="" polarity="POS" pos="VERB" pred="lijden" special_cases="NONE" tense="INFINITIVE" time="NON_FUTURE">
+      <token_anchor t_id="33"/>
+      <token_anchor t_id="35"/>
+      <token_anchor t_id="34"/>
+    </EVENT_MENTION>
+    <EVENT_MENTION aspect="PERFECTIVE" certainty="CERTAIN" comment="" m_id="36" modality="" polarity="POS" pos="VERB" pred="vragen" special_cases="NONE" tense="PRESENT" time="NON_FUTURE">
+      <token_anchor t_id="50"/>
+      <token_anchor t_id="48"/>
+      <token_anchor t_id="49"/>
+    </EVENT_MENTION>
+    <EVENT_MENTION aspect="NONE" certainty="CERTAIN" comment="" m_id="37" modality="" polarity="POS" pos="VERB" pred="zeggen" special_cases="NONE" tense="PRESENT" time="NON_FUTURE">
+      <token_anchor t_id="55"/>
+    </EVENT_MENTION>
+    <EVENT_MENTION aspect="NONE" certainty="PROBABLE" comment="" m_id="38" modality="" polarity="POS" pos="VERB" pred="omvatten" special_cases="NONE" tense="PRESENT" time="NON_FUTURE">
+      <token_anchor t_id="76"/>
+    </EVENT_MENTION>
+    <EVENT_MENTION aspect="NONE" certainty="CERTAIN" comment="" m_id="39" modality="" polarity="POS" pos="VERB" pred="bieden" special_cases="NONE" tense="PRESENT" time="NON_FUTURE">
+      <token_anchor t_id="79"/>
+    </EVENT_MENTION>
+    <TIMEX3 anchorTimeID="52" beginPoint="" comment="" endPoint="" functionInDocument="CREATION_TIME" m_id="52" type="DATE" value="2009-02-03">
+      <token_anchor t_id="11"/>
+    </TIMEX3>
+    <VALUE comment="" m_id="47" type="MONEY">
+      <token_anchor t_id="64"/>
+      <token_anchor t_id="65"/>
+    </VALUE>
+    <VALUE comment="" m_id="48" type="MONEY">
+      <token_anchor t_id="71"/>
+      <token_anchor t_id="70"/>
+    </VALUE>
+    <VALUE comment="" m_id="49" type="MONEY">
+      <token_anchor t_id="89"/>
+    </VALUE>
+    <VALUE comment="" m_id="50" type="MONEY">
+      <token_anchor t_id="93"/>
+      <token_anchor t_id="94"/>
+    </VALUE>
+    <VALUE comment="" m_id="51" type="MONEY">
+      <token_anchor t_id="83"/>
+      <token_anchor t_id="84"/>
+    </VALUE>
+    <ENTITY TAG_DESCRIPTOR="auto" comment="" ent_class="" ent_type="PRO" external_ref="" m_id="18"/>
+    <ENTITY TAG_DESCRIPTOR="amerikaanse " comment="" ent_class="" ent_type="LOC" external_ref="" m_id="19"/>
+    <ENTITY TAG_DESCRIPTOR="amerikaanse staat " comment="" ent_class="" ent_type="ORG" external_ref="" m_id="20"/>
+    <ENTITY TAG_DESCRIPTOR="werknemers" comment="" ent_class="" ent_type="PER" external_ref="" m_id="21"/>
+    <ENTITY TAG_DESCRIPTOR="de autofabrikanten" comment="" ent_class="" ent_type="ORG" external_ref="" m_id="22"/>
+    <ENTITY TAG_DESCRIPTOR="GM" comment="" ent_class="" ent_type="ORG" external_ref="" m_id="23"/>
+    <ENTITY TAG_DESCRIPTOR="Chrysler" comment="" ent_class="" ent_type="ORG" external_ref="" m_id="24"/>
+    <ENTITY TAG_DESCRIPTOR="zorgverzekering" comment="" ent_class="" ent_type="PRO" external_ref="" m_id="25"/>
+    <ENTITY TAG_DESCRIPTOR="pensioen" comment="" ent_class="" ent_type="PRO" external_ref="" m_id="26"/>
+    <ENTITY TAG_DESCRIPTOR="afkoop" comment="" ent_class="" ent_type="PRO" external_ref="" m_id="27"/>
+    <ENTITY TAG_DESCRIPTOR="ontslagregeling" comment="" ent_class="" ent_type="PRO" external_ref="" m_id="29"/>
+    <ENTITY TAG_DESCRIPTOR="auto chrysler" comment="" ent_class="" ent_type="PRO" external_ref="" m_id="31"/>
+    <EVENT TAG_DESCRIPTOR="om hulp gevraagd" class="OTHER" comment="" external_ref="" m_id="40"/>
+    <EVENT TAG_DESCRIPTOR="beginnen" class="GRAMMATICAL" comment="" external_ref="" m_id="41"/>
+    <EVENT TAG_DESCRIPTOR="aanbieden" class="OTHER" comment="" external_ref="" m_id="42"/>
+    <EVENT TAG_DESCRIPTOR="zwaar te lijden" class="OTHER" comment="" external_ref="" m_id="43"/>
+    <EVENT TAG_DESCRIPTOR="gezegd" class="SPEECH_COGNITIVE" comment="" external_ref="" m_id="44"/>
+    <EVENT TAG_DESCRIPTOR="omvat" class="OTHER" comment="" external_ref="" m_id="45"/>
+    <EVENT TAG_DESCRIPTOR="biedt" class="OTHER" comment="" external_ref="" m_id="46"/>
+  </Markables>
+  <Relations>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <SLINK r_id="266731">
+      <source m_id="37"/>
+      <target m_id="38"/>
+    </SLINK>
+    <GLINK r_id="266732">
+      <source m_id="33"/>
+      <target m_id="34"/>
+    </GLINK>
+    <HAS_PARTICIPANT comment="" frame="" frame_element="" r_id="270037" sem_role="Arg1" sem_role_framework="PROPBANK">
+      <source m_id="32"/>
+      <target m_id="5"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT comment="" frame="" frame_element="" r_id="270038" sem_role="Arg3" sem_role_framework="PROPBANK">
+      <source m_id="32"/>
+      <target m_id="4"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT comment="" frame="" frame_element="" r_id="270039" sem_role="Arg0" sem_role_framework="PROPBANK">
+      <source m_id="32"/>
+      <target m_id="1"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT comment="" frame="" frame_element="" r_id="270040" sem_role="Arg1" sem_role_framework="PROPBANK">
+      <source m_id="34"/>
+      <target m_id="28"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT comment="" frame="" frame_element="" r_id="270041" sem_role="Arg0" sem_role_framework="PROPBANK">
+      <source m_id="36"/>
+      <target m_id="53"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT comment="" frame="" frame_element="" r_id="270042" sem_role="Arg0" sem_role_framework="PROPBANK">
+      <source m_id="35"/>
+      <target m_id="11"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT comment="" frame="" frame_element="" r_id="270043" sem_role="Arg0" sem_role_framework="PROPBANK">
+      <source m_id="34"/>
+      <target m_id="9"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT comment="" frame="" frame_element="" r_id="270044" sem_role="Arg0" sem_role_framework="PROPBANK">
+      <source m_id="34"/>
+      <target m_id="8"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT comment="" frame="" frame_element="" r_id="270045" sem_role="Arg3" sem_role_framework="PROPBANK">
+      <source m_id="34"/>
+      <target m_id="10"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT comment="" frame="" frame_element="" r_id="270046" sem_role="Arg2" sem_role_framework="PROPBANK">
+      <source m_id="36"/>
+      <target m_id="12"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT comment="" frame="" frame_element="" r_id="270047" sem_role="Arg1" sem_role_framework="PROPBANK">
+      <source m_id="38"/>
+      <target m_id="47"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT comment="" frame="" frame_element="" r_id="270048" sem_role="Arg1" sem_role_framework="PROPBANK">
+      <source m_id="38"/>
+      <target m_id="48"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT comment="" frame="" frame_element="" r_id="270049" sem_role="Arg0" sem_role_framework="PROPBANK">
+      <source m_id="39"/>
+      <target m_id="15"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT comment="" frame="" frame_element="" r_id="270050" sem_role="Arg2" sem_role_framework="PROPBANK">
+      <source m_id="39"/>
+      <target m_id="51"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT comment="" frame="" frame_element="" r_id="270051" sem_role="Arg2" sem_role_framework="PROPBANK">
+      <source m_id="39"/>
+      <target m_id="49"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT comment="" frame="" frame_element="" r_id="270052" sem_role="Arg2" sem_role_framework="PROPBANK">
+      <source m_id="39"/>
+      <target m_id="50"/>
+    </HAS_PARTICIPANT>
+    <HAS_PARTICIPANT comment="" frame="" frame_element="" r_id="270053" sem_role="Arg1" sem_role_framework="PROPBANK">
+      <source m_id="39"/>
+      <target m_id="16"/>
+    </HAS_PARTICIPANT>
+    <TLINK comment="" r_id="275008" reltype="INCLUDES" signalID="">
+      <source m_id="52"/>
+      <target m_id="35"/>
+    </TLINK>
+    <TLINK comment="" r_id="275009" reltype="INCLUDES" signalID="">
+      <source m_id="52"/>
+      <target m_id="33"/>
+    </TLINK>
+    <TLINK comment="" r_id="275010" reltype="AFTER" signalID="">
+      <source m_id="52"/>
+      <target m_id="36"/>
+    </TLINK>
+    <TLINK comment="" r_id="275012" reltype="SIMULTANEOUS" signalID="">
+      <source m_id="34"/>
+      <target m_id="39"/>
+    </TLINK>
+    <TLINK comment="" r_id="275015" reltype="AFTER" signalID="">
+      <source m_id="37"/>
+      <target m_id="38"/>
+    </TLINK>
+    <TLINK comment="" r_id="275016" reltype="INCLUDES" signalID="">
+      <source m_id="52"/>
+      <target m_id="37"/>
+    </TLINK>
+  <REFERS_TO r_id="262015">
+<source m_id="3"/>
+<source m_id="9"/>
+<source m_id="15"/>
+<target m_id="24"/>
+</REFERS_TO>
+<REFERS_TO r_id="262016">
+<source m_id="17"/>
+<target m_id="25"/>
+</REFERS_TO>
+<REFERS_TO r_id="262017">
+<source m_id="7"/>
+<target m_id="26"/>
+</REFERS_TO>
+<REFERS_TO r_id="262018">
+<source m_id="6"/>
+<target m_id="27"/>
+</REFERS_TO>
+<REFERS_TO r_id="262019">
+<source m_id="12"/>
+<target m_id="20"/>
+</REFERS_TO>
+<REFERS_TO r_id="262020">
+<source m_id="4"/>
+<source m_id="10"/>
+<target m_id="21"/>
+</REFERS_TO>
+<REFERS_TO r_id="262021">
+<source m_id="1"/>
+<source m_id="11"/>
+<source m_id="53"/>
+<target m_id="22"/>
+</REFERS_TO>
+<REFERS_TO r_id="262022">
+<source m_id="2"/>
+<source m_id="8"/>
+<source m_id="13"/>
+<target m_id="23"/>
+</REFERS_TO>
+<REFERS_TO r_id="262023">
+<source m_id="30"/>
+<target m_id="19"/>
+</REFERS_TO>
+<REFERS_TO r_id="262024">
+<source m_id="14"/>
+<target m_id="18"/>
+</REFERS_TO>
+<REFERS_TO r_id="262025">
+<source m_id="16"/>
+<target m_id="31"/>
+</REFERS_TO>
+<REFERS_TO r_id="262026">
+<source m_id="38"/>
+<target m_id="45"/>
+</REFERS_TO>
+<REFERS_TO r_id="262027">
+<source m_id="32"/>
+<source m_id="34"/>
+<target m_id="42"/>
+</REFERS_TO>
+<REFERS_TO r_id="262028">
+<source m_id="5"/>
+<source m_id="28"/>
+<target m_id="29"/>
+</REFERS_TO>
+<REFERS_TO r_id="262029">
+<source m_id="35"/>
+<target m_id="43"/>
+</REFERS_TO>
+<REFERS_TO r_id="262030">
+<source m_id="33"/>
+<target m_id="41"/>
+</REFERS_TO>
+<REFERS_TO r_id="262031">
+<source m_id="39"/>
+<target m_id="46"/>
+</REFERS_TO>
+<REFERS_TO r_id="262032">
+<source m_id="36"/>
+<target m_id="40"/>
+</REFERS_TO>
+<REFERS_TO r_id="262033">
+<source m_id="37"/>
+<target m_id="44"/>
+</REFERS_TO>
+</Relations>
+</Document>

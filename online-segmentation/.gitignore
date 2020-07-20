@@ -1,0 +1,14 @@
+.idea/
+.ipynb_checkpoints
+__pycache__/
+*.pyc
+*.h5
+pytorch*.bin
+optimizer*.pt
+build/
+dist/
+online_segmentation.egg-info/
+venv/
+foobar/
+nlp/ner/training/bert/output
+nlp/ner/training/bert/runs

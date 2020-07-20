@@ -1,0 +1,9 @@
+graft qsegmt
+global-exclude *.ipynb
+global-exclude *.pyc
+prune qsegmt/de/data
+prune qsegmt/nl/data
+prune qsegmt/nl/models
+graft qsegmt/nl/models/bert-base-dutch-cased-all
+graft qsegmt/nl/models/nl_core_news_sm-2.2.5
+

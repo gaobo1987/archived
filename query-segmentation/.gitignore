@@ -1,0 +1,16 @@
+.ipynb_checkpoints
+__pycache__/
+*.pyc
+build/
+dist/
+query_segmentation.egg-info/
+venv/
+foobar/
+qsegmt/nl/models/bert-base-dutch-cased-demorgen2000
+qsegmt/nl/models/bert-base-dutch-cased-europeananews
+qsegmt/nl/models/bert-base-dutch-cased-meantimenews
+qsegmt/nl/models/bert-base-dutch-cased-parliamentary
+qsegmt/nl/models/bert-base-dutch-cased-wikiner
+qsegmt/nl/models/bert-base-dutch-cased-all
+.idea/
+ner/bert/output

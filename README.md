@@ -1,1 +1,1 @@
-# archived
+This repo contains archived sub-repos.

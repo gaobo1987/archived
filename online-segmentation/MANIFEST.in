@@ -1,0 +1,18 @@
+global-exclude *.ipynb
+global-exclude *.pyc
+global-exclude *.md
+
+graft qsegmt
+prune qsegmt/nl/models
+graft qsegmt/nl/models/bert_base_dutch_cased_ft
+graft qsegmt/nl/models/spacy_default
+prune qsegmt/el/models
+graft qsegmt/el/models/spacy_default
+
+graft nlp
+prune nlp/evaluation
+prune nlp/ner/evaluation
+prune nlp/ner/resources
+prune nlp/ner/training
+prune nlp/bert/pretrained
+prune nlp/bert/__pycache__

@@ -1,0 +1,12 @@
+setuptools
+wheel
+spacy
+cupy-cuda101
+spacy-lookups-data
+torch
+transformers
+tensorboard
+stanza
+lxml
+notebook
+jsonlines
