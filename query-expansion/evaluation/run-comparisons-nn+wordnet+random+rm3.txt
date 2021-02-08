@@ -1,0 +1,677 @@
+===================================================
+data: msmarco-passage.dev-subset
+top k: k=1000
+
+
+baseline: bm25 (run-msmarco-passage-bm25.txt)
+runid                 	all	Anserini
+num_q                 	all	6980
+num_ret               	all	6974598
+num_rel               	all	7437
+num_rel_ret           	all	6309
+map                   	all	0.1926
+gm_map                	all	0.0168
+Rprec                 	all	0.1048
+bpref                 	all	0.8526
+recip_rank            	all	0.1960
+iprec_at_recall_0.00  	all	0.1964
+iprec_at_recall_0.10  	all	0.1964
+iprec_at_recall_0.20  	all	0.1964
+iprec_at_recall_0.30  	all	0.1964
+iprec_at_recall_0.40  	all	0.1952
+iprec_at_recall_0.50  	all	0.1952
+iprec_at_recall_0.60  	all	0.1898
+iprec_at_recall_0.70  	all	0.1898
+iprec_at_recall_0.80  	all	0.1893
+iprec_at_recall_0.90  	all	0.1893
+iprec_at_recall_1.00  	all	0.1893
+P_5                   	all	0.0591
+P_10                  	all	0.0394
+P_15                  	all	0.0301
+P_20                  	all	0.0246
+P_30                  	all	0.0182
+P_100                 	all	0.0069
+P_200                 	all	0.0038
+P_500                 	all	0.0017
+P_1000                	all	0.0009
+
+
+passage-dev, bm25+nn, k=5, v1
+runid                 	all	Anserini
+num_q                 	all	6978
+num_ret               	all	6799703
+num_rel               	all	7435
+num_rel_ret           	all	5638
+map                   	all	0.1399
+gm_map                	all	0.0058
+Rprec                 	all	0.0735
+bpref                 	all	0.7630
+recip_rank            	all	0.1424
+iprec_at_recall_0.00  	all	0.1426
+iprec_at_recall_0.10  	all	0.1426
+iprec_at_recall_0.20  	all	0.1426
+iprec_at_recall_0.30  	all	0.1426
+iprec_at_recall_0.40  	all	0.1421
+iprec_at_recall_0.50  	all	0.1421
+iprec_at_recall_0.60  	all	0.1379
+iprec_at_recall_0.70  	all	0.1379
+iprec_at_recall_0.80  	all	0.1376
+iprec_at_recall_0.90  	all	0.1376
+iprec_at_recall_1.00  	all	0.1376
+P_5                   	all	0.0422
+P_10                  	all	0.0290
+P_15                  	all	0.0226
+P_20                  	all	0.0186
+P_30                  	all	0.0140
+P_100                 	all	0.0056
+P_200                 	all	0.0032
+P_500                 	all	0.0015
+P_1000                	all	0.0008
+
+
+
+===================================================
+data: msmarco-doc-dev
+BM25 baseline:
+runid                   all     Anserini
+num_q                   all     5193
+num_ret                 all     5191674
+num_rel                 all     5193
+num_rel_ret             all     4599
+map                     all     0.2310
+gm_map                  all     0.0273
+Rprec                   all     0.1277
+bpref                   all     0.8856
+recip_rank              all     0.2310
+iprec_at_recall_0.00    all     0.2310
+iprec_at_recall_0.10    all     0.2310
+iprec_at_recall_0.20    all     0.2310
+iprec_at_recall_0.30    all     0.2310
+iprec_at_recall_0.40    all     0.2310
+iprec_at_recall_0.50    all     0.2310
+iprec_at_recall_0.60    all     0.2310
+iprec_at_recall_0.70    all     0.2310
+iprec_at_recall_0.80    all     0.2310
+iprec_at_recall_0.90    all     0.2310
+iprec_at_recall_1.00    all     0.2310
+P_5                     all     0.0686
+P_10                    all     0.0444
+P_15                    all     0.0333
+P_20                    all     0.0272
+P_30                    all     0.0199
+P_100                   all     0.0073
+P_200                   all     0.0039
+P_500                   all     0.0017
+P_1000                  all     0.0009
+
+
+bm25+nn, k=2, v1
+lowercased, stopword-punct removal, k=2
+runid                   all     Anserini
+num_q                   all     5192
+num_ret                 all     5101235
+num_rel                 all     5192
+num_rel_ret             all     4440
+map                     all     0.1559
+gm_map                  all     0.0129
+Rprec                   all     0.0745
+bpref                   all     0.8552
+recip_rank              all     0.1559
+iprec_at_recall_0.00    all     0.1559
+iprec_at_recall_0.10    all     0.1559
+iprec_at_recall_0.20    all     0.1559
+iprec_at_recall_0.30    all     0.1559
+iprec_at_recall_0.40    all     0.1559
+iprec_at_recall_0.50    all     0.1559
+iprec_at_recall_0.60    all     0.1559
+iprec_at_recall_0.70    all     0.1559
+iprec_at_recall_0.80    all     0.1559
+iprec_at_recall_0.90    all     0.1559
+iprec_at_recall_1.00    all     0.1559
+P_5                     all     0.0465
+P_10                    all     0.0325
+P_15                    all     0.0256
+P_20                    all     0.0214
+P_30                    all     0.0159
+P_100                   all     0.0063
+P_200                   all     0.0036
+P_500                   all     0.0016
+P_1000                  all     0.0009
+
+bm25 + nn (version 1)
+lowercased, stopword-punct removal, k=3
+runid                   all     Anserini
+num_q                   all     5192
+num_ret                 all     5110226
+num_rel                 all     5192
+num_rel_ret             all     4322
+map                     all     0.1372
+gm_map                  all     0.0094
+Rprec                   all     0.0655
+bpref                   all     0.8324
+recip_rank              all     0.1372
+iprec_at_recall_0.00    all     0.1372
+iprec_at_recall_0.10    all     0.1372
+iprec_at_recall_0.20    all     0.1372
+iprec_at_recall_0.30    all     0.1372
+iprec_at_recall_0.40    all     0.1372
+iprec_at_recall_0.50    all     0.1372
+iprec_at_recall_0.60    all     0.1372
+iprec_at_recall_0.70    all     0.1372
+iprec_at_recall_0.80    all     0.1372
+iprec_at_recall_0.90    all     0.1372
+iprec_at_recall_1.00    all     0.1372
+P_5                     all     0.0408
+P_10                    all     0.0289
+P_15                    all     0.0227
+P_20                    all     0.0190
+P_30                    all     0.0145
+P_100                   all     0.0059
+P_200                   all     0.0034
+P_500                   all     0.0016
+P_1000                  all     0.0008
+
+bm25 + nn (version 1)
+lowercased, stopword-punct removal, k=4
+runid                   all     Anserini
+num_q                   all     5192
+num_ret                 all     5113915
+num_rel                 all     5192
+num_rel_ret             all     4240
+map                     all     0.1240
+gm_map                  all     0.0075
+Rprec                   all     0.0587
+bpref                   all     0.8166
+recip_rank              all     0.1240
+iprec_at_recall_0.00    all     0.1240
+iprec_at_recall_0.10    all     0.1240
+iprec_at_recall_0.20    all     0.1240
+iprec_at_recall_0.30    all     0.1240
+iprec_at_recall_0.40    all     0.1240
+iprec_at_recall_0.50    all     0.1240
+iprec_at_recall_0.60    all     0.1240
+iprec_at_recall_0.70    all     0.1240
+iprec_at_recall_0.80    all     0.1240
+iprec_at_recall_0.90    all     0.1240
+iprec_at_recall_1.00    all     0.1240
+P_5                     all     0.0366
+P_10                    all     0.0261
+P_15                    all     0.0207
+P_20                    all     0.0175
+P_30                    all     0.0135
+P_100                   all     0.0056
+P_200                   all     0.0033
+P_500                   all     0.0015
+P_1000                  all     0.0008
+
+
+bm25 + nn (version 1)
+lowercased, stopword-punct removal, k=5
+runid                   all     Anserini
+num_q                   all     5192
+num_ret                 all     5118530
+num_rel                 all     5192
+num_rel_ret             all     4163
+map                     all     0.1140
+gm_map                  all     0.0061
+Rprec                   all     0.0520
+bpref                   all     0.8018
+recip_rank              all     0.1140
+iprec_at_recall_0.00    all     0.1140
+iprec_at_recall_0.10    all     0.1140
+iprec_at_recall_0.20    all     0.1140
+iprec_at_recall_0.30    all     0.1140
+iprec_at_recall_0.40    all     0.1140
+iprec_at_recall_0.50    all     0.1140
+iprec_at_recall_0.60    all     0.1140
+iprec_at_recall_0.70    all     0.1140
+iprec_at_recall_0.80    all     0.1140
+iprec_at_recall_0.90    all     0.1140
+iprec_at_recall_1.00    all     0.1140
+P_5                     all     0.0339
+P_10                    all     0.0235
+P_15                    all     0.0190
+P_20                    all     0.0162
+P_30                    all     0.0126
+P_100                   all     0.0054
+P_200                   all     0.0031
+P_500                   all     0.0015
+P_1000                  all     0.0008
+
+
+bm25 + nn (version 1)
+lowercased, stopword-punct removal, k=10
+runid                   all     Anserini
+num_q                   all     5192
+num_ret                 all     5138621
+num_rel                 all     5192
+num_rel_ret             all     3849
+map                     all     0.0815
+gm_map                  all     0.0029
+Rprec                   all     0.0356
+bpref                   all     0.7413
+recip_rank              all     0.0815
+iprec_at_recall_0.00    all     0.0815
+iprec_at_recall_0.10    all     0.0815
+iprec_at_recall_0.20    all     0.0815
+iprec_at_recall_0.30    all     0.0815
+iprec_at_recall_0.40    all     0.0815
+iprec_at_recall_0.50    all     0.0815
+iprec_at_recall_0.60    all     0.0815
+iprec_at_recall_0.70    all     0.0815
+iprec_at_recall_0.80    all     0.0815
+iprec_at_recall_0.90    all     0.0815
+iprec_at_recall_1.00    all     0.0815
+P_5                     all     0.0236
+P_10                    all     0.0169
+P_15                    all     0.0136
+P_20                    all     0.0117
+P_30                    all     0.0094
+P_100                   all     0.0044
+P_200                   all     0.0027
+P_500                   all     0.0013
+P_1000                  all     0.0007
+
+bm25 + nn (version 1)
+lowercased, stopword-punct removal, k=15
+runid                   all     Anserini
+num_q                   all     5192
+num_ret                 all     5148803
+num_rel                 all     5192
+num_rel_ret             all     3605
+map                     all     0.0651
+gm_map                  all     0.0017
+Rprec                   all     0.0279
+bpref                   all     0.6943
+recip_rank              all     0.0651
+iprec_at_recall_0.00    all     0.0651
+iprec_at_recall_0.10    all     0.0651
+iprec_at_recall_0.20    all     0.0651
+iprec_at_recall_0.30    all     0.0651
+iprec_at_recall_0.40    all     0.0651
+iprec_at_recall_0.50    all     0.0651
+iprec_at_recall_0.60    all     0.0651
+iprec_at_recall_0.70    all     0.0651
+iprec_at_recall_0.80    all     0.0651
+iprec_at_recall_0.90    all     0.0651
+iprec_at_recall_1.00    all     0.0651
+P_5                     all     0.0183
+P_10                    all     0.0137
+P_15                    all     0.0112
+P_20                    all     0.0097
+P_30                    all     0.0077
+P_100                   all     0.0037
+P_200                   all     0.0024
+P_500                   all     0.0012
+P_1000                  all     0.0007
+
+
+bm25 + nn (version 1)
+lowercased, stopword-punct removal, k=25
+runid                   all     Anserini
+num_q                   all     5192
+num_ret                 all     5159973
+num_rel                 all     5192
+num_rel_ret             all     3178
+map                     all     0.0418
+gm_map                  all     0.0008
+Rprec                   all     0.0148
+bpref                   all     0.6121
+recip_rank              all     0.0418
+iprec_at_recall_0.00    all     0.0418
+iprec_at_recall_0.10    all     0.0418
+iprec_at_recall_0.20    all     0.0418
+iprec_at_recall_0.30    all     0.0418
+iprec_at_recall_0.40    all     0.0418
+iprec_at_recall_0.50    all     0.0418
+iprec_at_recall_0.60    all     0.0418
+iprec_at_recall_0.70    all     0.0418
+iprec_at_recall_0.80    all     0.0418
+iprec_at_recall_0.90    all     0.0418
+iprec_at_recall_1.00    all     0.0418
+P_5                     all     0.0119
+P_10                    all     0.0090
+P_15                    all     0.0077
+P_20                    all     0.0068
+P_30                    all     0.0056
+P_100                   all     0.0029
+P_200                   all     0.0019
+P_500                   all     0.0010
+P_1000                  all     0.0006
+
+bm25 + nn (version 1)
+lowercased, stopword-punct removal, k=50
+runid                   all     Anserini
+num_q                   all     5192
+num_ret                 all     5166907
+num_rel                 all     5192
+num_rel_ret             all     2478
+map                     all     0.0235
+gm_map                  all     0.0002
+Rprec                   all     0.0083
+bpref                   all     0.4773
+recip_rank              all     0.0235
+iprec_at_recall_0.00    all     0.0235
+iprec_at_recall_0.10    all     0.0235
+iprec_at_recall_0.20    all     0.0235
+iprec_at_recall_0.30    all     0.0235
+iprec_at_recall_0.40    all     0.0235
+iprec_at_recall_0.50    all     0.0235
+iprec_at_recall_0.60    all     0.0235
+iprec_at_recall_0.70    all     0.0235
+iprec_at_recall_0.80    all     0.0235
+iprec_at_recall_0.90    all     0.0235
+iprec_at_recall_1.00    all     0.0235
+P_5                     all     0.0060
+P_10                    all     0.0049
+P_15                    all     0.0043
+P_20                    all     0.0039
+P_30                    all     0.0033
+P_100                   all     0.0018
+P_200                   all     0.0013
+P_500                   all     0.0007
+P_1000                  all     0.0005
+
+bm25 + nn (alternative)
+lowercased, stopword-punct removal, k=5
+runid                 	all	Anserini
+num_q                 	all	5192
+num_ret               	all	5116627
+num_rel               	all	5192
+num_rel_ret           	all	4209
+map                   	all	0.1222
+gm_map                	all	0.0070
+Rprec                 	all	0.0566
+bpref                 	all	0.8107
+recip_rank            	all	0.1222
+iprec_at_recall_0.00  	all	0.1222
+iprec_at_recall_0.10  	all	0.1222
+iprec_at_recall_0.20  	all	0.1222
+iprec_at_recall_0.30  	all	0.1222
+iprec_at_recall_0.40  	all	0.1222
+iprec_at_recall_0.50  	all	0.1222
+iprec_at_recall_0.60  	all	0.1222
+iprec_at_recall_0.70  	all	0.1222
+iprec_at_recall_0.80  	all	0.1222
+iprec_at_recall_0.90  	all	0.1222
+iprec_at_recall_1.00  	all	0.1222
+P_5                   	all	0.0361
+P_10                  	all	0.0252
+P_15                  	all	0.0203
+P_20                  	all	0.0172
+P_30                  	all	0.0131
+P_100                 	all	0.0056
+P_200                 	all	0.0032
+P_500                 	all	0.0015
+P_1000                	all	0.0008
+
+
+bm25+qe wordnet v1:
+runid                   all     Anserini
+num_q                   all     5192
+num_ret                 all     5090684
+num_rel                 all     5192
+num_rel_ret             all     2694
+map                     all     0.0531
+gm_map                  all     0.0005
+Rprec                   all     0.0231
+bpref                   all     0.5189
+recip_rank              all     0.0531
+iprec_at_recall_0.00    all     0.0531
+iprec_at_recall_0.10    all     0.0531
+iprec_at_recall_0.20    all     0.0531
+iprec_at_recall_0.30    all     0.0531
+iprec_at_recall_0.40    all     0.0531
+iprec_at_recall_0.50    all     0.0531
+iprec_at_recall_0.60    all     0.0531
+iprec_at_recall_0.70    all     0.0531
+iprec_at_recall_0.80    all     0.0531
+iprec_at_recall_0.90    all     0.0531
+iprec_at_recall_1.00    all     0.0531
+P_5                     all     0.0153
+P_10                    all     0.0107
+P_15                    all     0.0085
+P_20                    all     0.0073
+P_30                    all     0.0058
+P_100                   all     0.0028
+P_200                   all     0.0018
+P_500                   all     0.0009
+P_1000                  all     0.0005
+
+
+bm25+qe wordnet v2:
+runid                   all     Anserini
+num_q                   all     5192
+num_ret                 all     5090258
+num_rel                 all     5192
+num_rel_ret             all     2558
+map                     all     0.0489
+gm_map                  all     0.0004
+Rprec                   all     0.0212
+bpref                   all     0.4927
+recip_rank              all     0.0489
+iprec_at_recall_0.00    all     0.0489
+iprec_at_recall_0.10    all     0.0489
+iprec_at_recall_0.20    all     0.0489
+iprec_at_recall_0.30    all     0.0489
+iprec_at_recall_0.40    all     0.0489
+iprec_at_recall_0.50    all     0.0489
+iprec_at_recall_0.60    all     0.0489
+iprec_at_recall_0.70    all     0.0489
+iprec_at_recall_0.80    all     0.0489
+iprec_at_recall_0.90    all     0.0489
+iprec_at_recall_1.00    all     0.0489
+P_5                     all     0.0142
+P_10                    all     0.0100
+P_15                    all     0.0079
+P_20                    all     0.0068
+P_30                    all     0.0054
+P_100                   all     0.0026
+P_200                   all     0.0016
+P_500                   all     0.0008
+P_1000                  all     0.0005
+
+run-msmarco-doc-bm25-random-try-1.txt
+runid                   all     Anserini
+num_q                   all     5193
+num_ret                 all     5191674
+num_rel                 all     5193
+num_rel_ret             all     4597
+map                     all     0.2302
+gm_map                  all     0.0270
+Rprec                   all     0.1279
+bpref                   all     0.8852
+recip_rank              all     0.2302
+iprec_at_recall_0.00    all     0.2302
+iprec_at_recall_0.10    all     0.2302
+iprec_at_recall_0.20    all     0.2302
+iprec_at_recall_0.30    all     0.2302
+iprec_at_recall_0.40    all     0.2302
+iprec_at_recall_0.50    all     0.2302
+iprec_at_recall_0.60    all     0.2302
+iprec_at_recall_0.70    all     0.2302
+iprec_at_recall_0.80    all     0.2302
+iprec_at_recall_0.90    all     0.2302
+iprec_at_recall_1.00    all     0.2302
+P_5                     all     0.0682
+P_10                    all     0.0442
+P_15                    all     0.0331
+P_20                    all     0.0270
+P_30                    all     0.0199
+P_100                   all     0.0073
+P_200                   all     0.0039
+P_500                   all     0.0017
+P_1000                  all     0.0009
+
+
+run-msmarco-doc-bm25-random-try-2.txt
+runid                   all     Anserini
+num_q                   all     5193
+num_ret                 all     5191674
+num_rel                 all     5193
+num_rel_ret             all     4597
+map                     all     0.2302
+gm_map                  all     0.0270
+Rprec                   all     0.1279
+bpref                   all     0.8852
+recip_rank              all     0.2302
+iprec_at_recall_0.00    all     0.2302
+iprec_at_recall_0.10    all     0.2302
+iprec_at_recall_0.20    all     0.2302
+iprec_at_recall_0.30    all     0.2302
+iprec_at_recall_0.40    all     0.2302
+iprec_at_recall_0.50    all     0.2302
+iprec_at_recall_0.60    all     0.2302
+iprec_at_recall_0.70    all     0.2302
+iprec_at_recall_0.80    all     0.2302
+iprec_at_recall_0.90    all     0.2302
+iprec_at_recall_1.00    all     0.2302
+P_5                     all     0.0682
+P_10                    all     0.0442
+P_15                    all     0.0331
+P_20                    all     0.0270
+P_30                    all     0.0199
+P_100                   all     0.0073
+P_200                   all     0.0039
+P_500                   all     0.0017
+
+run-msmarco-doc-bm25-random-try-3.txt
+runid                   all     Anserini
+num_q                   all     5193
+num_ret                 all     5191674
+num_rel                 all     5193
+num_rel_ret             all     4597
+map                     all     0.2302
+gm_map                  all     0.0270
+Rprec                   all     0.1279
+bpref                   all     0.8852
+recip_rank              all     0.2302
+iprec_at_recall_0.00    all     0.2302
+iprec_at_recall_0.10    all     0.2302
+iprec_at_recall_0.20    all     0.2302
+iprec_at_recall_0.30    all     0.2302
+iprec_at_recall_0.40    all     0.2302
+iprec_at_recall_0.50    all     0.2302
+iprec_at_recall_0.60    all     0.2302
+iprec_at_recall_0.70    all     0.2302
+iprec_at_recall_0.80    all     0.2302
+iprec_at_recall_0.90    all     0.2302
+iprec_at_recall_1.00    all     0.2302
+P_5                     all     0.0682
+P_10                    all     0.0442
+P_15                    all     0.0331
+P_20                    all     0.0270
+P_30                    all     0.0199
+P_100                   all     0.0073
+P_200                   all     0.0039
+P_500                   all     0.0017
+P_1000                  all     0.0009
+
+bm25+rm3
+run-msmarco-doc-bm25-rm3-k2-d10-qw0.5.txt
+runid                   all     Anserini
+num_q                   all     5193
+num_ret                 all     5191674
+num_rel                 all     5193
+num_rel_ret             all     4599
+map                     all     0.2310
+gm_map                  all     0.0273
+Rprec                   all     0.1277
+bpref                   all     0.8856
+recip_rank              all     0.2310
+iprec_at_recall_0.00    all     0.2310
+iprec_at_recall_0.10    all     0.2310
+iprec_at_recall_0.20    all     0.2310
+iprec_at_recall_0.30    all     0.2310
+iprec_at_recall_0.40    all     0.2310
+iprec_at_recall_0.50    all     0.2310
+iprec_at_recall_0.60    all     0.2310
+iprec_at_recall_0.70    all     0.2310
+iprec_at_recall_0.80    all     0.2310
+iprec_at_recall_0.90    all     0.2310
+iprec_at_recall_1.00    all     0.2310
+P_5                     all     0.0686
+P_10                    all     0.0444
+P_15                    all     0.0333
+P_20                    all     0.0272
+P_30                    all     0.0199
+P_100                   all     0.0073
+P_200                   all     0.0039
+P_500                   all     0.0017
+P_1000                  all     0.0009
+
+bm25+rm3
+run-msmarco-doc-bm25-rm3-k5-d10-qw0.5.txt
+runid                   all     Anserini
+num_q                   all     5193
+num_ret                 all     5191674
+num_rel                 all     5193
+num_rel_ret             all     4599
+map                     all     0.2310
+gm_map                  all     0.0273
+Rprec                   all     0.1277
+bpref                   all     0.8856
+recip_rank              all     0.2310
+iprec_at_recall_0.00    all     0.2310
+iprec_at_recall_0.10    all     0.2310
+iprec_at_recall_0.20    all     0.2310
+iprec_at_recall_0.30    all     0.2310
+iprec_at_recall_0.40    all     0.2310
+iprec_at_recall_0.50    all     0.2310
+iprec_at_recall_0.60    all     0.2310
+iprec_at_recall_0.70    all     0.2310
+iprec_at_recall_0.80    all     0.2310
+iprec_at_recall_0.90    all     0.2310
+iprec_at_recall_1.00    all     0.2310
+P_5                     all     0.0686
+P_10                    all     0.0444
+P_15                    all     0.0333
+P_20                    all     0.0272
+P_30                    all     0.0199
+P_100                   all     0.0073
+P_200                   all     0.0039
+P_500                   all     0.0017
+P_1000                  all     0.0009
+
+bm25+rm3
+run-msmarco-doc-bm25-rm3-k10-d10-qw0.5.txt
+run-msmarco-doc-bm25-rm3-k2-d10-qw1.txt
+run-msmarco-doc-bm25-rm3-k2-d20-qw1.txt
+run-msmarco-doc-bm25-rm3-k2-d30-qw1.txt
+run-msmarco-doc-bm25-rm3-k5-d10-qw1.txt
+run-msmarco-doc-bm25-rm3-k5-d20-qw1.txt
+run-msmarco-doc-bm25-rm3-k5-d30-qw1.txt
+run-msmarco-doc-bm25-rm3-k10-d10-qw1.txt
+run-msmarco-doc-bm25-rm3-k10-d20-qw1.txt
+run-msmarco-doc-bm25-rm3-k10-d30-qw1.txt
+runid                   all     Anserini
+num_q                   all     5193
+num_ret                 all     5191674
+num_rel                 all     5193
+num_rel_ret             all     4599
+map                     all     0.2310
+gm_map                  all     0.0273
+Rprec                   all     0.1277
+bpref                   all     0.8856
+recip_rank              all     0.2310
+iprec_at_recall_0.00    all     0.2310
+iprec_at_recall_0.10    all     0.2310
+iprec_at_recall_0.20    all     0.2310
+iprec_at_recall_0.30    all     0.2310
+iprec_at_recall_0.40    all     0.2310
+iprec_at_recall_0.50    all     0.2310
+iprec_at_recall_0.60    all     0.2310
+iprec_at_recall_0.70    all     0.2310
+iprec_at_recall_0.80    all     0.2310
+iprec_at_recall_0.90    all     0.2310
+iprec_at_recall_1.00    all     0.2310
+P_5                     all     0.0686
+P_10                    all     0.0444
+P_15                    all     0.0333
+P_20                    all     0.0272
+P_30                    all     0.0199
+P_100                   all     0.0073
+P_200                   all     0.0039
+P_500                   all     0.0017
+P_1000                  all     0.0009
+

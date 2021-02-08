@@ -1,0 +1,6 @@
+--trusted-host pypi.org
+--trusted-host files.pythonhosted.org
+spacy
+notebook
+pyserini
+spacy-wordnet

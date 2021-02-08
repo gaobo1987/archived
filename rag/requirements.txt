@@ -1,0 +1,6 @@
+-f https://download.pytorch.org/whl/torch_stable.html
+transformers==3.5.1
+datasets==1.2.1
+torch==1.7.1+cu110
+torchvision==0.8.2+cu110
+faiss-gpu==1.6.5

@@ -1,0 +1,2 @@
+To be able to build the package, you need to download [bert-base-portuguese-cased-ft](https://onebox.huawei.com/p/365d091da3d7d0bf0aabda0b9e070b8b) model
+and [pt_core_news_md-2.2.5](https://onebox.huawei.com/p/b46ae457e5563c58646bc5d8205d5bea) model and place them in this directory

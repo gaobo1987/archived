@@ -1,0 +1,7 @@
+farm-haystack==0.3.0
+nltk==3.5
+wikiextractor
+ijson
+ipywidgets
+plotly
+tensorboard

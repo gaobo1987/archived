@@ -1,0 +1,12 @@
+setuptools
+wheel
+spacy==2.2.4
+cupy-cuda101
+torch
+transformers
+tensorboard
+stanza
+spacy-stanza
+notebook
+jsonlines
+xmltodict

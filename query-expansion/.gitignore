@@ -1,0 +1,17 @@
+.idea
+.ipynb_checkpoints
+__pycache__
+collections/
+examples/*.gz
+examples/*.h5
+examples/*.tsv
+examples/*.zip
+venv/
+models/
+data/
+faiss/
+indexes/msmarco-*
+runs/run-*
+logs/log.*
+tools/
+data/

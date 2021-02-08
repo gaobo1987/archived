@@ -1,0 +1,5 @@
+-r requirements.txt
+-f https://s3.amazonaws.com/pytorch/whl/torch_stable.html
+torch==1.5.1+cu101
+torchvision==0.6.1+cu101
+faiss-gpu

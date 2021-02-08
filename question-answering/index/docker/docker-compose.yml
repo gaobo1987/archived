@@ -1,0 +1,45 @@
+version: '3'
+services:
+  elasticsearch:
+    image: elasticsearch:7.9.0
+    container_name: qa_elasticsearch
+    hostname: elasticsearch
+    environment:
+      - discovery.type=single-node
+      - "ES_JAVA_OPTS=-Xms4g -Xmx4g"
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
+    volumes:
+      - esdata:/usr/share/elasticsearch/data
+    ports:
+      - 9200:9200
+    networks:
+      - qa_network
+
+  kibana:
+    image: kibana:7.9.0
+    container_name: qa_kibana
+    hostname: kibana
+    ports:
+      - 5601:5601
+    environment:
+      ELASTICSEARCH_URL: http://elasticsearch:9200
+      ELASTICSEARCH_HOSTS: http://elasticsearch:9200
+    depends_on:
+      - elasticsearch
+    networks:
+      - qa_network
+
+volumes:
+  esdata:
+    driver: local
+
+networks:
+  qa_network:
+    driver: bridge
+    ipam:
+      driver: default
+      config:
+        - subnet: 181.42.0.1/16

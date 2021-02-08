@@ -1,0 +1,4 @@
+-f https://s3.amazonaws.com/pytorch/whl/torch_stable.html
+torch==1.5.1+cpu
+torchvision==0.6.1+cpu
+-r requirements.txt

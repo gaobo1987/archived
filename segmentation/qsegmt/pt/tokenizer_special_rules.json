@@ -1,0 +1,6290 @@
+{
+    "da": [
+        {
+            "ORTH": "de"
+        },
+        {
+            "ORTH": "a"
+        }
+    ],
+    "das": [
+        {
+            "ORTH": "de"
+        },
+        {
+            "ORTH": "as"
+        }
+    ],
+    "do": [
+        {
+            "ORTH": "de"
+        },
+        {
+            "ORTH": "o"
+        }
+    ],
+    "dos": [
+        {
+            "ORTH": "de"
+        },
+        {
+            "ORTH": "os"
+        }
+    ],
+    "dela": [
+        {
+            "ORTH": "de"
+        },
+        {
+            "ORTH": "ela"
+        }
+    ],
+    "nos": [
+        {
+            "ORTH": "em"
+        },
+        {
+            "ORTH": "os"
+        }
+    ],
+    "ao": [
+        {
+            "ORTH": "a"
+        },
+        {
+            "ORTH": "o"
+        }
+    ],
+    "encontramo-nos": [
+        {
+            "ORTH": "encontramo"
+        },
+        {
+            "ORTH": "nos"
+        }
+    ],
+    "na": [
+        {
+            "ORTH": "em"
+        },
+        {
+            "ORTH": "a"
+        }
+    ],
+    "aos": [
+        {
+            "ORTH": "a"
+        },
+        {
+            "ORTH": "os"
+        }
+    ],
+    "no": [
+        {
+            "ORTH": "em"
+        },
+        {
+            "ORTH": "o"
+        }
+    ],
+    "juntar-se": [
+        {
+            "ORTH": "juntar"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "\u00e0s": [
+        {
+            "ORTH": "a"
+        },
+        {
+            "ORTH": "as"
+        }
+    ],
+    "especializarem-se": [
+        {
+            "ORTH": "especializarem"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Encomendem-nos": [
+        {
+            "ORTH": "Encomendem"
+        },
+        {
+            "ORTH": "nos"
+        }
+    ],
+    "nesse": [
+        {
+            "ORTH": "em"
+        },
+        {
+            "ORTH": "esse"
+        }
+    ],
+    "pelos": [
+        {
+            "ORTH": "por"
+        },
+        {
+            "ORTH": "os"
+        }
+    ],
+    "numa": [
+        {
+            "ORTH": "em"
+        },
+        {
+            "ORTH": "uma"
+        }
+    ],
+    "comp\u00f5e-se": [
+        {
+            "ORTH": "comp\u00f5e"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "\u00e0": [
+        {
+            "ORTH": "a"
+        },
+        {
+            "ORTH": "a"
+        }
+    ],
+    "nas": [
+        {
+            "ORTH": "em"
+        },
+        {
+            "ORTH": "as"
+        }
+    ],
+    "destinam-se": [
+        {
+            "ORTH": "destinam"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "pela": [
+        {
+            "ORTH": "por"
+        },
+        {
+            "ORTH": "a"
+        }
+    ],
+    "destina-se": [
+        {
+            "ORTH": "destina"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "pelo": [
+        {
+            "ORTH": "por"
+        },
+        {
+            "ORTH": "o"
+        }
+    ],
+    "Da\u00ed": [
+        {
+            "ORTH": "De"
+        },
+        {
+            "ORTH": "a\u00ed"
+        }
+    ],
+    "deste": [
+        {
+            "ORTH": "de"
+        },
+        {
+            "ORTH": "este"
+        }
+    ],
+    "Na": [
+        {
+            "ORTH": "Em"
+        },
+        {
+            "ORTH": "a"
+        }
+    ],
+    "inspira-se": [
+        {
+            "ORTH": "inspira"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "No": [
+        {
+            "ORTH": "Em"
+        },
+        {
+            "ORTH": "o"
+        }
+    ],
+    "Dos": [
+        {
+            "ORTH": "De"
+        },
+        {
+            "ORTH": "os"
+        }
+    ],
+    "adaptar-se": [
+        {
+            "ORTH": "adaptar"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "\u00e9-o": [
+        {
+            "ORTH": "\u00e9"
+        },
+        {
+            "ORTH": "o"
+        }
+    ],
+    "neste": [
+        {
+            "ORTH": "em"
+        },
+        {
+            "ORTH": "este"
+        }
+    ],
+    "desta": [
+        {
+            "ORTH": "de"
+        },
+        {
+            "ORTH": "esta"
+        }
+    ],
+    "apresentar-se": [
+        {
+            "ORTH": "apresentar"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "dividiu-se": [
+        {
+            "ORTH": "dividiu"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Ao": [
+        {
+            "ORTH": "A"
+        },
+        {
+            "ORTH": "o"
+        }
+    ],
+    "convencionou-se": [
+        {
+            "ORTH": "convencionou"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Sabe-se": [
+        {
+            "ORTH": "Sabe"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Do": [
+        {
+            "ORTH": "De"
+        },
+        {
+            "ORTH": "o"
+        }
+    ],
+    "Registe-se": [
+        {
+            "ORTH": "Registe"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "recorde-se": [
+        {
+            "ORTH": "recorde"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "num": [
+        {
+            "ORTH": "em"
+        },
+        {
+            "ORTH": "um"
+        }
+    ],
+    "Naquele": [
+        {
+            "ORTH": "Em"
+        },
+        {
+            "ORTH": "aquele"
+        }
+    ],
+    "apercebeu-se": [
+        {
+            "ORTH": "apercebeu"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "dirigiu-se": [
+        {
+            "ORTH": "dirigiu"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "aponta-lhe": [
+        {
+            "ORTH": "aponta"
+        },
+        {
+            "ORTH": "lhe"
+        }
+    ],
+    "daquela": [
+        {
+            "ORTH": "de"
+        },
+        {
+            "ORTH": "aquela"
+        }
+    ],
+    "encontra-se": [
+        {
+            "ORTH": "encontra"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Recomenda-se": [
+        {
+            "ORTH": "Recomenda"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "chamam-na": [
+        {
+            "ORTH": "chamam"
+        },
+        {
+            "ORTH": "na"
+        }
+    ],
+    "\u00c0s": [
+        {
+            "ORTH": "A"
+        },
+        {
+            "ORTH": "as"
+        }
+    ],
+    "ir-se": [
+        {
+            "ORTH": "ir"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "registar-se": [
+        {
+            "ORTH": "registar"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "concretizar-se": [
+        {
+            "ORTH": "concretizar"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Neste": [
+        {
+            "ORTH": "Em"
+        },
+        {
+            "ORTH": "este"
+        }
+    ],
+    "far-se-\u00e1": [
+        {
+            "ORTH": "far\u00e1"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "manter-se": [
+        {
+            "ORTH": "manter"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "adequa-se": [
+        {
+            "ORTH": "adequa"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Nos": [
+        {
+            "ORTH": "Em"
+        },
+        {
+            "ORTH": "os"
+        }
+    ],
+    "connosco": [
+        {
+            "ORTH": "con"
+        },
+        {
+            "ORTH": "nosco"
+        }
+    ],
+    "colocam-se": [
+        {
+            "ORTH": "colocam"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "esperando-se": [
+        {
+            "ORTH": "esperando"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Dizia-se": [
+        {
+            "ORTH": "Dizia"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "leia-se": [
+        {
+            "ORTH": "leia"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "destes": [
+        {
+            "ORTH": "de"
+        },
+        {
+            "ORTH": "estes"
+        }
+    ],
+    "destaca-se": [
+        {
+            "ORTH": "destaca"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Movimentaram-se": [
+        {
+            "ORTH": "Movimentaram"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "situar-se": [
+        {
+            "ORTH": "situar"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "noticiava-se": [
+        {
+            "ORTH": "noticiava"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "inclina-se": [
+        {
+            "ORTH": "inclina"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "substitu\u00ed-lo": [
+        {
+            "ORTH": "substitu\u00ed"
+        },
+        {
+            "ORTH": "lo"
+        }
+    ],
+    "encontram-se": [
+        {
+            "ORTH": "encontram"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "fecha-se": [
+        {
+            "ORTH": "fecha"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "iniciaram-se": [
+        {
+            "ORTH": "iniciaram"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Numa": [
+        {
+            "ORTH": "Em"
+        },
+        {
+            "ORTH": "uma"
+        }
+    ],
+    "Poder-se-\u00e1": [
+        {
+            "ORTH": "Poder\u00e1"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "incorpor\u00e1-lo": [
+        {
+            "ORTH": "incorpor\u00e1"
+        },
+        {
+            "ORTH": "lo"
+        }
+    ],
+    "tornou-se": [
+        {
+            "ORTH": "tornou"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "manipularam-se": [
+        {
+            "ORTH": "manipularam"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "vendem-se": [
+        {
+            "ORTH": "vendem"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "dessas": [
+        {
+            "ORTH": "de"
+        },
+        {
+            "ORTH": "essas"
+        }
+    ],
+    "pelas": [
+        {
+            "ORTH": "por"
+        },
+        {
+            "ORTH": "as"
+        }
+    ],
+    "anti-estacionamento": [
+        {
+            "ORTH": "anti"
+        },
+        {
+            "ORTH": "estacionamento"
+        }
+    ],
+    "duma": [
+        {
+            "ORTH": "de"
+        },
+        {
+            "ORTH": "uma"
+        }
+    ],
+    "daquele": [
+        {
+            "ORTH": "de"
+        },
+        {
+            "ORTH": "aquele"
+        }
+    ],
+    "realizar-se": [
+        {
+            "ORTH": "realizar"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "tem-se": [
+        {
+            "ORTH": "tem"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "deles": [
+        {
+            "ORTH": "de"
+        },
+        {
+            "ORTH": "eles"
+        }
+    ],
+    "atenuar-lhes": [
+        {
+            "ORTH": "atenuar"
+        },
+        {
+            "ORTH": "lhes"
+        }
+    ],
+    "assinava-se": [
+        {
+            "ORTH": "assinava"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "deu-lhe": [
+        {
+            "ORTH": "deu"
+        },
+        {
+            "ORTH": "lhe"
+        }
+    ],
+    "perguntou-lhe": [
+        {
+            "ORTH": "perguntou"
+        },
+        {
+            "ORTH": "lhe"
+        }
+    ],
+    "nesta": [
+        {
+            "ORTH": "em"
+        },
+        {
+            "ORTH": "esta"
+        }
+    ],
+    "decidiu-se": [
+        {
+            "ORTH": "decidiu"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "tendo-lhe": [
+        {
+            "ORTH": "tendo"
+        },
+        {
+            "ORTH": "lhe"
+        }
+    ],
+    "desse": [
+        {
+            "ORTH": "de"
+        },
+        {
+            "ORTH": "esse"
+        }
+    ],
+    "naquele": [
+        {
+            "ORTH": "em"
+        },
+        {
+            "ORTH": "aquele"
+        }
+    ],
+    "Num": [
+        {
+            "ORTH": "Em"
+        },
+        {
+            "ORTH": "um"
+        }
+    ],
+    "recriando-se": [
+        {
+            "ORTH": "recriando"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "dessa": [
+        {
+            "ORTH": "de"
+        },
+        {
+            "ORTH": "essa"
+        }
+    ],
+    "ficou-nos": [
+        {
+            "ORTH": "ficou"
+        },
+        {
+            "ORTH": "nos"
+        }
+    ],
+    "tornaram-se": [
+        {
+            "ORTH": "tornaram"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Apaixonou-se": [
+        {
+            "ORTH": "Apaixonou"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "dele": [
+        {
+            "ORTH": "de"
+        },
+        {
+            "ORTH": "ele"
+        }
+    ],
+    "Apraz-nos": [
+        {
+            "ORTH": "Apraz"
+        },
+        {
+            "ORTH": "nos"
+        }
+    ],
+    "Enganei-me": [
+        {
+            "ORTH": "Enganei"
+        },
+        {
+            "ORTH": "me"
+        }
+    ],
+    "Nesse": [
+        {
+            "ORTH": "Em"
+        },
+        {
+            "ORTH": "esse"
+        }
+    ],
+    "ter-se": [
+        {
+            "ORTH": "ter"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "libertar-se": [
+        {
+            "ORTH": "libertar"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "paralis\u00e1-la": [
+        {
+            "ORTH": "paralis\u00e1"
+        },
+        {
+            "ORTH": "la"
+        }
+    ],
+    "Parte-se": [
+        {
+            "ORTH": "Parte"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "daqueles": [
+        {
+            "ORTH": "de"
+        },
+        {
+            "ORTH": "aqueles"
+        }
+    ],
+    "arriscamo-nos": [
+        {
+            "ORTH": "arriscamo"
+        },
+        {
+            "ORTH": "nos"
+        }
+    ],
+    "re\u00fanem-se": [
+        {
+            "ORTH": "re\u00fanem"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "escapar-se": [
+        {
+            "ORTH": "escapar"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "prestou-as": [
+        {
+            "ORTH": "prestou"
+        },
+        {
+            "ORTH": "as"
+        }
+    ],
+    "Abra\u00e7a-se": [
+        {
+            "ORTH": "Abra\u00e7a"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "diz-lhe": [
+        {
+            "ORTH": "diz"
+        },
+        {
+            "ORTH": "lhe"
+        }
+    ],
+    "abra\u00e7a-o": [
+        {
+            "ORTH": "abra\u00e7a"
+        },
+        {
+            "ORTH": "o"
+        }
+    ],
+    "trata-se": [
+        {
+            "ORTH": "trata"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "fazem-se": [
+        {
+            "ORTH": "fazem"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "contratou-o": [
+        {
+            "ORTH": "contratou"
+        },
+        {
+            "ORTH": "o"
+        }
+    ],
+    "trouxe-o": [
+        {
+            "ORTH": "trouxe"
+        },
+        {
+            "ORTH": "o"
+        }
+    ],
+    "trein\u00e1-lo": [
+        {
+            "ORTH": "trein\u00e1"
+        },
+        {
+            "ORTH": "lo"
+        }
+    ],
+    "descobriu-o": [
+        {
+            "ORTH": "descobriu"
+        },
+        {
+            "ORTH": "o"
+        }
+    ],
+    "traduziu-o": [
+        {
+            "ORTH": "traduziu"
+        },
+        {
+            "ORTH": "o"
+        }
+    ],
+    "prefaciou-o": [
+        {
+            "ORTH": "prefaciou"
+        },
+        {
+            "ORTH": "o"
+        }
+    ],
+    "ilustrou-o": [
+        {
+            "ORTH": "ilustrou"
+        },
+        {
+            "ORTH": "o"
+        }
+    ],
+    "faltava-lhes": [
+        {
+            "ORTH": "faltava"
+        },
+        {
+            "ORTH": "lhes"
+        }
+    ],
+    "ex-Requiem": [
+        {
+            "ORTH": "ex"
+        },
+        {
+            "ORTH": "Requiem"
+        }
+    ],
+    "Pelas": [
+        {
+            "ORTH": "Por"
+        },
+        {
+            "ORTH": "as"
+        }
+    ],
+    "relatar-lhe": [
+        {
+            "ORTH": "relatar"
+        },
+        {
+            "ORTH": "lhe"
+        }
+    ],
+    "traduziram-se": [
+        {
+            "ORTH": "traduziram"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "estreou-se": [
+        {
+            "ORTH": "estreou"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Bateu-se": [
+        {
+            "ORTH": "Bateu"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "ganhou-lhes": [
+        {
+            "ORTH": "ganhou"
+        },
+        {
+            "ORTH": "lhes"
+        }
+    ],
+    "bateu-me": [
+        {
+            "ORTH": "bateu"
+        },
+        {
+            "ORTH": "me"
+        }
+    ],
+    "Pediram-me": [
+        {
+            "ORTH": "Pediram"
+        },
+        {
+            "ORTH": "me"
+        }
+    ],
+    "Pelo": [
+        {
+            "ORTH": "Por"
+        },
+        {
+            "ORTH": "o"
+        }
+    ],
+    "Tratando-se": [
+        {
+            "ORTH": "Tratando"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "recorrendo-se": [
+        {
+            "ORTH": "recorrendo"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "lan\u00e7\u00e1-la": [
+        {
+            "ORTH": "lan\u00e7\u00e1"
+        },
+        {
+            "ORTH": "la"
+        }
+    ],
+    "manter-los": [
+        {
+            "ORTH": "manter"
+        },
+        {
+            "ORTH": "los"
+        }
+    ],
+    "\u00e0quele": [
+        {
+            "ORTH": "a"
+        },
+        {
+            "ORTH": "aquele"
+        }
+    ],
+    "anunciava-se": [
+        {
+            "ORTH": "anunciava"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "mantivemo-nos": [
+        {
+            "ORTH": "mantivemo"
+        },
+        {
+            "ORTH": "nos"
+        }
+    ],
+    "destaque-se": [
+        {
+            "ORTH": "destaque"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Fala-se": [
+        {
+            "ORTH": "Fala"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "pronunciar-se": [
+        {
+            "ORTH": "pronunciar"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "apresentou-se": [
+        {
+            "ORTH": "apresentou"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "intrometer-se": [
+        {
+            "ORTH": "intrometer"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Nas": [
+        {
+            "ORTH": "Em"
+        },
+        {
+            "ORTH": "as"
+        }
+    ],
+    "disso": [
+        {
+            "ORTH": "de"
+        },
+        {
+            "ORTH": "isso"
+        }
+    ],
+    "atribuir-lhe": [
+        {
+            "ORTH": "atribuir"
+        },
+        {
+            "ORTH": "lhe"
+        }
+    ],
+    "tinham-se": [
+        {
+            "ORTH": "tinham"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "demitir-me": [
+        {
+            "ORTH": "demitir"
+        },
+        {
+            "ORTH": "me"
+        }
+    ],
+    "procurar-se": [
+        {
+            "ORTH": "procurar"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "tornara-se": [
+        {
+            "ORTH": "tornara"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "portar-se": [
+        {
+            "ORTH": "portar"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Chamaram-se": [
+        {
+            "ORTH": "Chamaram"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Debate-se": [
+        {
+            "ORTH": "Debate"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "encontravam-se": [
+        {
+            "ORTH": "encontravam"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "distribu\u00edu-se": [
+        {
+            "ORTH": "distribu\u00edu"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "suicidar-se": [
+        {
+            "ORTH": "suicidar"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "evadiram-se": [
+        {
+            "ORTH": "evadiram"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "demitir-se": [
+        {
+            "ORTH": "demitir"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "coloca-o": [
+        {
+            "ORTH": "coloca"
+        },
+        {
+            "ORTH": "o"
+        }
+    ],
+    "disto": [
+        {
+            "ORTH": "de"
+        },
+        {
+            "ORTH": "isto"
+        }
+    ],
+    "manifestar-se": [
+        {
+            "ORTH": "manifestar"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Atende-se": [
+        {
+            "ORTH": "Atende"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "autoriza-se": [
+        {
+            "ORTH": "autoriza"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "arranja-se": [
+        {
+            "ORTH": "arranja"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Constata-se": [
+        {
+            "ORTH": "Constata"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "apresenta-se": [
+        {
+            "ORTH": "apresenta"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "\u00c0": [
+        {
+            "ORTH": "A"
+        },
+        {
+            "ORTH": "a"
+        }
+    ],
+    "deve-se": [
+        {
+            "ORTH": "deve"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "mover-se": [
+        {
+            "ORTH": "mover"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "revelar-se": [
+        {
+            "ORTH": "revelar"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "transformar-se": [
+        {
+            "ORTH": "transformar"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "limitam-se": [
+        {
+            "ORTH": "limitam"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "resolv\u00ea-la": [
+        {
+            "ORTH": "resolv\u00ea"
+        },
+        {
+            "ORTH": "la"
+        }
+    ],
+    "Percebe-se": [
+        {
+            "ORTH": "Percebe"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "animam-se": [
+        {
+            "ORTH": "animam"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "sucedem-se": [
+        {
+            "ORTH": "sucedem"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "centrar-se-\u00e1": [
+        {
+            "ORTH": "centrar\u00e1"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "tenta-se": [
+        {
+            "ORTH": "tenta"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "cria-se": [
+        {
+            "ORTH": "cria"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "trabalha-se": [
+        {
+            "ORTH": "trabalha"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Ei-lo": [
+        {
+            "ORTH": "Eis"
+        },
+        {
+            "ORTH": "lo"
+        }
+    ],
+    "tornando-se": [
+        {
+            "ORTH": "tornando"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Aos": [
+        {
+            "ORTH": "A"
+        },
+        {
+            "ORTH": "os"
+        }
+    ],
+    "juntar-se-\u00e3o": [
+        {
+            "ORTH": "juntar\u00e3o"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "passou-se": [
+        {
+            "ORTH": "passou"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Apaixonei-me": [
+        {
+            "ORTH": "Apaixonei"
+        },
+        {
+            "ORTH": "me"
+        }
+    ],
+    "respondeu-me": [
+        {
+            "ORTH": "respondeu"
+        },
+        {
+            "ORTH": "me"
+        }
+    ],
+    "Trata-se": [
+        {
+            "ORTH": "Trata"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "naquela": [
+        {
+            "ORTH": "em"
+        },
+        {
+            "ORTH": "aquela"
+        }
+    ],
+    "escutar-se": [
+        {
+            "ORTH": "escutar"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "daquilo": [
+        {
+            "ORTH": "de"
+        },
+        {
+            "ORTH": "aquilo"
+        }
+    ],
+    "apresentaram-se": [
+        {
+            "ORTH": "apresentaram"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "manteve-se": [
+        {
+            "ORTH": "manteve"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "conclui-a": [
+        {
+            "ORTH": "conclui"
+        },
+        {
+            "ORTH": "a"
+        }
+    ],
+    "delas": [
+        {
+            "ORTH": "de"
+        },
+        {
+            "ORTH": "elas"
+        }
+    ],
+    "deparam-se": [
+        {
+            "ORTH": "deparam"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "deu-se": [
+        {
+            "ORTH": "deu"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "atravessou-se": [
+        {
+            "ORTH": "atravessou"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "pensa-se": [
+        {
+            "ORTH": "pensa"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "espera-se": [
+        {
+            "ORTH": "espera"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Parece-me": [
+        {
+            "ORTH": "Parece"
+        },
+        {
+            "ORTH": "me"
+        }
+    ],
+    "dirigir-se": [
+        {
+            "ORTH": "dirigir"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "nele": [
+        {
+            "ORTH": "em"
+        },
+        {
+            "ORTH": "ele"
+        }
+    ],
+    "situando-se": [
+        {
+            "ORTH": "situando"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "verificou-se": [
+        {
+            "ORTH": "verificou"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "nacionaliz\u00e1-lo": [
+        {
+            "ORTH": "nacionaliz\u00e1"
+        },
+        {
+            "ORTH": "lo"
+        }
+    ],
+    "conserv\u00e1-lo": [
+        {
+            "ORTH": "conserv\u00e1"
+        },
+        {
+            "ORTH": "lo"
+        }
+    ],
+    "nela": [
+        {
+            "ORTH": "em"
+        },
+        {
+            "ORTH": "ela"
+        }
+    ],
+    "Pela": [
+        {
+            "ORTH": "Por"
+        },
+        {
+            "ORTH": "a"
+        }
+    ],
+    "regozija-se": [
+        {
+            "ORTH": "regozija"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "considerando-o": [
+        {
+            "ORTH": "considerando"
+        },
+        {
+            "ORTH": "o"
+        }
+    ],
+    "acrescentou-lhe": [
+        {
+            "ORTH": "acrescentou"
+        },
+        {
+            "ORTH": "lhe"
+        }
+    ],
+    "Nessa": [
+        {
+            "ORTH": "Em"
+        },
+        {
+            "ORTH": "essa"
+        }
+    ],
+    "vou-me": [
+        {
+            "ORTH": "vou"
+        },
+        {
+            "ORTH": "me"
+        }
+    ],
+    "degradar-se": [
+        {
+            "ORTH": "degradar"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "evidenciar-se": [
+        {
+            "ORTH": "evidenciar"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "permitir-lhe": [
+        {
+            "ORTH": "permitir"
+        },
+        {
+            "ORTH": "lhe"
+        }
+    ],
+    "manifestam-se": [
+        {
+            "ORTH": "manifestam"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "manifestaram-se": [
+        {
+            "ORTH": "manifestaram"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "transaccionava-se": [
+        {
+            "ORTH": "transaccionava"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "nestas": [
+        {
+            "ORTH": "em"
+        },
+        {
+            "ORTH": "estas"
+        }
+    ],
+    "da\u00ed": [
+        {
+            "ORTH": "de"
+        },
+        {
+            "ORTH": "a\u00ed"
+        }
+    ],
+    "substitui-lo": [
+        {
+            "ORTH": "substitui"
+        },
+        {
+            "ORTH": "lo"
+        }
+    ],
+    "nessas": [
+        {
+            "ORTH": "em"
+        },
+        {
+            "ORTH": "essas"
+        }
+    ],
+    "valorizando-a": [
+        {
+            "ORTH": "valorizando"
+        },
+        {
+            "ORTH": "a"
+        }
+    ],
+    "juntar\u00e3o-se-": [
+        {
+            "ORTH": "juntar\u00e3o"
+        },
+        {
+            "ORTH": "se-"
+        }
+    ],
+    "Rev\u00ea-se": [
+        {
+            "ORTH": "Rev\u00ea"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Usou-o": [
+        {
+            "ORTH": "Usou"
+        },
+        {
+            "ORTH": "o"
+        }
+    ],
+    "apresenta-se-": [
+        {
+            "ORTH": "apresenta"
+        },
+        {
+            "ORTH": "se-"
+        }
+    ],
+    "senta-se": [
+        {
+            "ORTH": "senta"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "lev\u00e1-las": [
+        {
+            "ORTH": "lev\u00e1"
+        },
+        {
+            "ORTH": "las"
+        }
+    ],
+    "recordar-lhe": [
+        {
+            "ORTH": "recordar"
+        },
+        {
+            "ORTH": "lhe"
+        }
+    ],
+    "Recordou-lhe": [
+        {
+            "ORTH": "Recordou"
+        },
+        {
+            "ORTH": "lhe"
+        }
+    ],
+    "seguiam-na": [
+        {
+            "ORTH": "seguiam"
+        },
+        {
+            "ORTH": "na"
+        }
+    ],
+    "dar-lhe": [
+        {
+            "ORTH": "dar"
+        },
+        {
+            "ORTH": "lhe"
+        }
+    ],
+    "rev\u00ea-la": [
+        {
+            "ORTH": "rev\u00ea"
+        },
+        {
+            "ORTH": "la"
+        }
+    ],
+    "abra\u00e7\u00e1-la": [
+        {
+            "ORTH": "abra\u00e7\u00e1"
+        },
+        {
+            "ORTH": "la"
+        }
+    ],
+    "lembra-se": [
+        {
+            "ORTH": "lembra"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "pergunta-lhe": [
+        {
+            "ORTH": "pergunta"
+        },
+        {
+            "ORTH": "lhe"
+        }
+    ],
+    "Nesta": [
+        {
+            "ORTH": "Em"
+        },
+        {
+            "ORTH": "esta"
+        }
+    ],
+    "deu-me": [
+        {
+            "ORTH": "deu"
+        },
+        {
+            "ORTH": "me"
+        }
+    ],
+    "encontr\u00e1-la": [
+        {
+            "ORTH": "encontr\u00e1"
+        },
+        {
+            "ORTH": "la"
+        }
+    ],
+    "Diga-se": [
+        {
+            "ORTH": "Diga"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "lembrando-se": [
+        {
+            "ORTH": "lembrando"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "basta-nos": [
+        {
+            "ORTH": "basta"
+        },
+        {
+            "ORTH": "nos"
+        }
+    ],
+    "conclui-se": [
+        {
+            "ORTH": "conclui"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "seguir-se": [
+        {
+            "ORTH": "seguir"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "sinto-me": [
+        {
+            "ORTH": "sinto"
+        },
+        {
+            "ORTH": "me"
+        }
+    ],
+    "limita-se": [
+        {
+            "ORTH": "limita"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "noutras": [
+        {
+            "ORTH": "em"
+        },
+        {
+            "ORTH": "outras"
+        }
+    ],
+    "Pense-se": [
+        {
+            "ORTH": "Pense"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "obt\u00e9m-se": [
+        {
+            "ORTH": "obt\u00e9m"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "preparar-se": [
+        {
+            "ORTH": "preparar"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "faz\u00ea-lo": [
+        {
+            "ORTH": "faz\u00ea"
+        },
+        {
+            "ORTH": "lo"
+        }
+    ],
+    "mant\u00e9m-se": [
+        {
+            "ORTH": "mant\u00e9m"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "mostra-se": [
+        {
+            "ORTH": "mostra"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Encontram-se": [
+        {
+            "ORTH": "Encontram"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "visit\u00e1-la": [
+        {
+            "ORTH": "visit\u00e1"
+        },
+        {
+            "ORTH": "la"
+        }
+    ],
+    "deslocando-se": [
+        {
+            "ORTH": "deslocando"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "numas": [
+        {
+            "ORTH": "em"
+        },
+        {
+            "ORTH": "umas"
+        }
+    ],
+    "destinava-se": [
+        {
+            "ORTH": "destinava"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Espera-se": [
+        {
+            "ORTH": "Espera"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "acentuando-se": [
+        {
+            "ORTH": "acentuando"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Deste": [
+        {
+            "ORTH": "De"
+        },
+        {
+            "ORTH": "este"
+        }
+    ],
+    "fez-se": [
+        {
+            "ORTH": "fez"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Antevi-me": [
+        {
+            "ORTH": "Antevi"
+        },
+        {
+            "ORTH": "me"
+        }
+    ],
+    "contaram-me": [
+        {
+            "ORTH": "contaram"
+        },
+        {
+            "ORTH": "me"
+        }
+    ],
+    "insere-se": [
+        {
+            "ORTH": "insere"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "escreve-se": [
+        {
+            "ORTH": "escreve"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "trair-vos": [
+        {
+            "ORTH": "trair"
+        },
+        {
+            "ORTH": "vos"
+        }
+    ],
+    "impondo-se": [
+        {
+            "ORTH": "impondo"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Recorde-se": [
+        {
+            "ORTH": "Recorde"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "instalar-se": [
+        {
+            "ORTH": "instalar"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "referir-se": [
+        {
+            "ORTH": "referir"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "redimiu-se": [
+        {
+            "ORTH": "redimiu"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Lidou-se": [
+        {
+            "ORTH": "Lidou"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "permitiram-lhe": [
+        {
+            "ORTH": "permitiram"
+        },
+        {
+            "ORTH": "lhe"
+        }
+    ],
+    "desvincular-se": [
+        {
+            "ORTH": "desvincular"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Benfica-Sporting": [
+        {
+            "ORTH": "Benfica"
+        },
+        {
+            "ORTH": "Sporting"
+        }
+    ],
+    "aproveitam-se": [
+        {
+            "ORTH": "aproveitam"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "sentaram-se": [
+        {
+            "ORTH": "sentaram"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "avan\u00e7a-se": [
+        {
+            "ORTH": "avan\u00e7a"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Estabelece-se": [
+        {
+            "ORTH": "Estabelece"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Consagra-se": [
+        {
+            "ORTH": "Consagra"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "nelas": [
+        {
+            "ORTH": "em"
+        },
+        {
+            "ORTH": "elas"
+        }
+    ],
+    "dividem-se": [
+        {
+            "ORTH": "dividem"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "lembrou-se": [
+        {
+            "ORTH": "lembrou"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Pe\u00e7o-lhes": [
+        {
+            "ORTH": "Pe\u00e7o"
+        },
+        {
+            "ORTH": "lhes"
+        }
+    ],
+    "candidata-se": [
+        {
+            "ORTH": "candidata"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "mostrando-se": [
+        {
+            "ORTH": "mostrando"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "livrarmo-nos": [
+        {
+            "ORTH": "livrarmo"
+        },
+        {
+            "ORTH": "nos"
+        }
+    ],
+    "reuniram-se": [
+        {
+            "ORTH": "reuniram"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "perfilam-se": [
+        {
+            "ORTH": "perfilam"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "disputar-se": [
+        {
+            "ORTH": "disputar"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "sentar-se": [
+        {
+            "ORTH": "sentar"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "dificultando-lhe": [
+        {
+            "ORTH": "dificultando"
+        },
+        {
+            "ORTH": "lhe"
+        }
+    ],
+    "ser-se": [
+        {
+            "ORTH": "ser"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "refugiou-se": [
+        {
+            "ORTH": "refugiou"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "faltou-lhes": [
+        {
+            "ORTH": "faltou"
+        },
+        {
+            "ORTH": "lhes"
+        }
+    ],
+    "servindo-se": [
+        {
+            "ORTH": "servindo"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "fazem-no": [
+        {
+            "ORTH": "fazem"
+        },
+        {
+            "ORTH": "no"
+        }
+    ],
+    "mostrou-se": [
+        {
+            "ORTH": "mostrou"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "exagerou-se": [
+        {
+            "ORTH": "exagerou"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Abriu-se": [
+        {
+            "ORTH": "Abriu"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "auto-excluiu-se": [
+        {
+            "ORTH": "auto-excluiu"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "inquietam-se": [
+        {
+            "ORTH": "inquietam"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "destas": [
+        {
+            "ORTH": "de"
+        },
+        {
+            "ORTH": "estas"
+        }
+    ],
+    "apreciar-se": [
+        {
+            "ORTH": "apreciar"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "aliam-se": [
+        {
+            "ORTH": "aliam"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "reunir-se": [
+        {
+            "ORTH": "reunir"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "constata-se": [
+        {
+            "ORTH": "constata"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "viam-se": [
+        {
+            "ORTH": "viam"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "nalguns": [
+        {
+            "ORTH": "em"
+        },
+        {
+            "ORTH": "alguns"
+        }
+    ],
+    "dantes": [
+        {
+            "ORTH": "de"
+        },
+        {
+            "ORTH": "antes"
+        }
+    ],
+    "Das": [
+        {
+            "ORTH": "De"
+        },
+        {
+            "ORTH": "as"
+        }
+    ],
+    "v\u00ea-se": [
+        {
+            "ORTH": "v\u00ea"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Calcula-se": [
+        {
+            "ORTH": "Calcula"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "dedicam-se": [
+        {
+            "ORTH": "dedicam"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "digo-lhe": [
+        {
+            "ORTH": "digo"
+        },
+        {
+            "ORTH": "lhe"
+        }
+    ],
+    "autoparodiar-se": [
+        {
+            "ORTH": "autoparodiar"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "prejudica-me": [
+        {
+            "ORTH": "prejudica"
+        },
+        {
+            "ORTH": "me"
+        }
+    ],
+    "daqui": [
+        {
+            "ORTH": "de"
+        },
+        {
+            "ORTH": "aqui"
+        }
+    ],
+    "acentua-se": [
+        {
+            "ORTH": "acentua"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "iniciou-se": [
+        {
+            "ORTH": "iniciou"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "sabendo-se": [
+        {
+            "ORTH": "sabendo"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "curvei-me": [
+        {
+            "ORTH": "curvei"
+        },
+        {
+            "ORTH": "me"
+        }
+    ],
+    "tornar-se": [
+        {
+            "ORTH": "tornar"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "nestes": [
+        {
+            "ORTH": "em"
+        },
+        {
+            "ORTH": "estes"
+        }
+    ],
+    "disse-se": [
+        {
+            "ORTH": "disse"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "suscitam-me": [
+        {
+            "ORTH": "suscitam"
+        },
+        {
+            "ORTH": "me"
+        }
+    ],
+    "repartir-se": [
+        {
+            "ORTH": "repartir"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "prepare-se": [
+        {
+            "ORTH": "prepare"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "queixa-se": [
+        {
+            "ORTH": "queixa"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "venderam-se": [
+        {
+            "ORTH": "venderam"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "encontraram-se": [
+        {
+            "ORTH": "encontraram"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "encontrou-se": [
+        {
+            "ORTH": "encontrou"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "doutorou-se": [
+        {
+            "ORTH": "doutorou"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Rodeaste-te": [
+        {
+            "ORTH": "Rodeaste"
+        },
+        {
+            "ORTH": "te"
+        }
+    ],
+    "convosco": [
+        {
+            "ORTH": "com"
+        },
+        {
+            "ORTH": "v\u00f3s"
+        }
+    ],
+    "detectaram-se": [
+        {
+            "ORTH": "detectaram"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "custa-nos": [
+        {
+            "ORTH": "custa"
+        },
+        {
+            "ORTH": "nos"
+        }
+    ],
+    "Nesses": [
+        {
+            "ORTH": "Em"
+        },
+        {
+            "ORTH": "esses"
+        }
+    ],
+    "daquelas": [
+        {
+            "ORTH": "de"
+        },
+        {
+            "ORTH": "aquelas"
+        }
+    ],
+    "aproximou-se": [
+        {
+            "ORTH": "aproximou"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "devolvendo-o": [
+        {
+            "ORTH": "devolvendo"
+        },
+        {
+            "ORTH": "o"
+        }
+    ],
+    "foi-se": [
+        {
+            "ORTH": "foi"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "referindo-se": [
+        {
+            "ORTH": "referindo"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Deitou-lhe": [
+        {
+            "ORTH": "Deitou"
+        },
+        {
+            "ORTH": "lhe"
+        }
+    ],
+    "bater-lhe": [
+        {
+            "ORTH": "bater"
+        },
+        {
+            "ORTH": "lhe"
+        }
+    ],
+    "Cortou-lhe": [
+        {
+            "ORTH": "Cortou"
+        },
+        {
+            "ORTH": "lhe"
+        }
+    ],
+    "Depenou-a": [
+        {
+            "ORTH": "Depenou"
+        },
+        {
+            "ORTH": "a"
+        }
+    ],
+    "meia-hora": [
+        {
+            "ORTH": "meia"
+        },
+        {
+            "ORTH": "hora"
+        }
+    ],
+    "levantaram-se": [
+        {
+            "ORTH": "levantaram"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Leu-se": [
+        {
+            "ORTH": "Leu"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "cantou-se": [
+        {
+            "ORTH": "cantou"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "juntem-se": [
+        {
+            "ORTH": "juntem"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "consigo": [
+        {
+            "ORTH": "com"
+        },
+        {
+            "ORTH": "si"
+        }
+    ],
+    "dum": [
+        {
+            "ORTH": "de"
+        },
+        {
+            "ORTH": "um"
+        }
+    ],
+    "noutro": [
+        {
+            "ORTH": "em"
+        },
+        {
+            "ORTH": "outro"
+        }
+    ],
+    "continu\u00e1-la": [
+        {
+            "ORTH": "continu\u00e1"
+        },
+        {
+            "ORTH": "la"
+        }
+    ],
+    "roub\u00e1-la": [
+        {
+            "ORTH": "roub\u00e1"
+        },
+        {
+            "ORTH": "la"
+        }
+    ],
+    "proceder-se-\u00e1": [
+        {
+            "ORTH": "proceder\u00e1"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Via-se": [
+        {
+            "ORTH": "Via"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "chamou-o": [
+        {
+            "ORTH": "chamou"
+        },
+        {
+            "ORTH": "o"
+        }
+    ],
+    "vende-las": [
+        {
+            "ORTH": "vende"
+        },
+        {
+            "ORTH": "las"
+        }
+    ],
+    "registou-se": [
+        {
+            "ORTH": "registou"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "tinha-se": [
+        {
+            "ORTH": "tinha"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "desses": [
+        {
+            "ORTH": "de"
+        },
+        {
+            "ORTH": "esses"
+        }
+    ],
+    "Pedia-se": [
+        {
+            "ORTH": "Pedia"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "deslocarem-se": [
+        {
+            "ORTH": "deslocarem"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "prop\u00f5em-nos": [
+        {
+            "ORTH": "prop\u00f5em"
+        },
+        {
+            "ORTH": "nos"
+        }
+    ],
+    "limitou-se": [
+        {
+            "ORTH": "limitou"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "desvalorizar-se": [
+        {
+            "ORTH": "desvalorizar"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "inteirar-se": [
+        {
+            "ORTH": "inteirar"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "ocupava-se": [
+        {
+            "ORTH": "ocupava"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Suicidou-se": [
+        {
+            "ORTH": "Suicidou"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "encontravam-no": [
+        {
+            "ORTH": "encontravam"
+        },
+        {
+            "ORTH": "no"
+        }
+    ],
+    "reconheceu-me": [
+        {
+            "ORTH": "reconheceu"
+        },
+        {
+            "ORTH": "me"
+        }
+    ],
+    "Deu-me": [
+        {
+            "ORTH": "Deu"
+        },
+        {
+            "ORTH": "me"
+        }
+    ],
+    "sossegou-me": [
+        {
+            "ORTH": "sossegou"
+        },
+        {
+            "ORTH": "me"
+        }
+    ],
+    "Levaram-me": [
+        {
+            "ORTH": "Levaram"
+        },
+        {
+            "ORTH": "me"
+        }
+    ],
+    "levar-me": [
+        {
+            "ORTH": "levar"
+        },
+        {
+            "ORTH": "me"
+        }
+    ],
+    "abriram-me": [
+        {
+            "ORTH": "abriram"
+        },
+        {
+            "ORTH": "me"
+        }
+    ],
+    "fizeram-me": [
+        {
+            "ORTH": "fizeram"
+        },
+        {
+            "ORTH": "me"
+        }
+    ],
+    "recusando-se": [
+        {
+            "ORTH": "recusando"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "completam-se": [
+        {
+            "ORTH": "completam"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "do(s)": [
+        {
+            "ORTH": "de"
+        },
+        {
+            "ORTH": "o(s)"
+        }
+    ],
+    "abster-se": [
+        {
+            "ORTH": "abster"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Referem-se": [
+        {
+            "ORTH": "Referem"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "acentuar-se": [
+        {
+            "ORTH": "acentuar"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "opondo-se": [
+        {
+            "ORTH": "opondo"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "distancia-se": [
+        {
+            "ORTH": "distancia"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "inscrever-se": [
+        {
+            "ORTH": "inscrever"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "dividir-se": [
+        {
+            "ORTH": "dividir"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Clinton-Hosokawa": [
+        {
+            "ORTH": "Clinton"
+        },
+        {
+            "ORTH": "Hosokawa"
+        }
+    ],
+    "dever-se": [
+        {
+            "ORTH": "dever"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "infectaram-nos": [
+        {
+            "ORTH": "infectaram"
+        },
+        {
+            "ORTH": "nos"
+        }
+    ],
+    "Tratar-se-\u00e1": [
+        {
+            "ORTH": "Tratar\u00e1"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "inicia-se": [
+        {
+            "ORTH": "inicia"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "contam-se": [
+        {
+            "ORTH": "contam"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Assinale-se": [
+        {
+            "ORTH": "Assinale"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "chateando-se": [
+        {
+            "ORTH": "chateando"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "inverte-se": [
+        {
+            "ORTH": "inverte"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "circular-se": [
+        {
+            "ORTH": "circular"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "circulando-se": [
+        {
+            "ORTH": "circulando"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Segue-se": [
+        {
+            "ORTH": "Segue"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "confirmarem-se": [
+        {
+            "ORTH": "confirmarem"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "envolveram-se": [
+        {
+            "ORTH": "envolveram"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "trocando-o": [
+        {
+            "ORTH": "trocando"
+        },
+        {
+            "ORTH": "o"
+        }
+    ],
+    "interrogar-nos": [
+        {
+            "ORTH": "interrogar"
+        },
+        {
+            "ORTH": "nos"
+        }
+    ],
+    "chamou-se": [
+        {
+            "ORTH": "chamou"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "classificar-se": [
+        {
+            "ORTH": "classificar"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "cotando-se": [
+        {
+            "ORTH": "cotando"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "fixar-se": [
+        {
+            "ORTH": "fixar"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "intermediaram-se": [
+        {
+            "ORTH": "intermediaram"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "optou-se": [
+        {
+            "ORTH": "optou"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "passa-se": [
+        {
+            "ORTH": "passa"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Sofrem-nas": [
+        {
+            "ORTH": "Sofrem"
+        },
+        {
+            "ORTH": "nas"
+        }
+    ],
+    "encaram-nas": [
+        {
+            "ORTH": "encaram"
+        },
+        {
+            "ORTH": "nas"
+        }
+    ],
+    "respondem-lhes": [
+        {
+            "ORTH": "respondem"
+        },
+        {
+            "ORTH": "lhes"
+        }
+    ],
+    "prende-se": [
+        {
+            "ORTH": "prende"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "citam-se": [
+        {
+            "ORTH": "citam"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "disse-nos": [
+        {
+            "ORTH": "disse"
+        },
+        {
+            "ORTH": "nos"
+        }
+    ],
+    "adiantou-nos": [
+        {
+            "ORTH": "adiantou"
+        },
+        {
+            "ORTH": "nos"
+        }
+    ],
+    "declarou-nos": [
+        {
+            "ORTH": "declarou"
+        },
+        {
+            "ORTH": "nos"
+        }
+    ],
+    "t\u00ea-lo": [
+        {
+            "ORTH": "t\u00ea"
+        },
+        {
+            "ORTH": "lo"
+        }
+    ],
+    "nessa": [
+        {
+            "ORTH": "em"
+        },
+        {
+            "ORTH": "essa"
+        }
+    ],
+    "apaixonarem-se": [
+        {
+            "ORTH": "apaixonarem"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "tratar-se": [
+        {
+            "ORTH": "tratar"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "neles": [
+        {
+            "ORTH": "em"
+        },
+        {
+            "ORTH": "eles"
+        }
+    ],
+    "explicava-se": [
+        {
+            "ORTH": "explicava"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "arrisca-se": [
+        {
+            "ORTH": "arrisca"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "realizaram-se": [
+        {
+            "ORTH": "realizaram"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "sofr\u00ea-la": [
+        {
+            "ORTH": "sofr\u00ea"
+        },
+        {
+            "ORTH": "la"
+        }
+    ],
+    "acumulam-se": [
+        {
+            "ORTH": "acumulam"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "ver-se-\u00e9": [
+        {
+            "ORTH": "ver\u00e1"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Valen\u00e7a-Mon\u00e7\u00e3o": [
+        {
+            "ORTH": "Valen\u00e7a"
+        },
+        {
+            "ORTH": "Mon\u00e7\u00e3o"
+        }
+    ],
+    "Sobem-se": [
+        {
+            "ORTH": "Sobem"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "descem-se": [
+        {
+            "ORTH": "descem"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "serviu-se": [
+        {
+            "ORTH": "serviu"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "interromp\u00ea-la": [
+        {
+            "ORTH": "interromp\u00ea"
+        },
+        {
+            "ORTH": "la"
+        }
+    ],
+    "esboroar-se": [
+        {
+            "ORTH": "esboroar"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "excluindo-se": [
+        {
+            "ORTH": "excluindo"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "refugio-me": [
+        {
+            "ORTH": "refugio"
+        },
+        {
+            "ORTH": "me"
+        }
+    ],
+    "d\u00e3o-lhes": [
+        {
+            "ORTH": "d\u00e3o"
+        },
+        {
+            "ORTH": "lhes"
+        }
+    ],
+    "repetem-se": [
+        {
+            "ORTH": "repetem"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "declarar-se": [
+        {
+            "ORTH": "declarar"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "queixam-se": [
+        {
+            "ORTH": "queixam"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "considerar-se": [
+        {
+            "ORTH": "considerar"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "aguentar-se": [
+        {
+            "ORTH": "aguentar"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "serve-se": [
+        {
+            "ORTH": "serve"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "cruzam-se": [
+        {
+            "ORTH": "cruzam"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "fundem-se": [
+        {
+            "ORTH": "fundem"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "confirmar-se": [
+        {
+            "ORTH": "confirmar"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "aproxima-se": [
+        {
+            "ORTH": "aproxima"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "manifestando-se": [
+        {
+            "ORTH": "manifestando"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "posiciona-se": [
+        {
+            "ORTH": "posiciona"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "permitir-lhe-ia": [
+        {
+            "ORTH": "permitiria"
+        },
+        {
+            "ORTH": "lhe"
+        }
+    ],
+    "Seguir-se-ia": [
+        {
+            "ORTH": "Seguiria"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "preocupar-se": [
+        {
+            "ORTH": "preocupar"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "imprimir-lhes": [
+        {
+            "ORTH": "imprimir"
+        },
+        {
+            "ORTH": "lhes"
+        }
+    ],
+    "am\u00e1-lo": [
+        {
+            "ORTH": "am\u00e1"
+        },
+        {
+            "ORTH": "lo"
+        }
+    ],
+    "roubar-lhe": [
+        {
+            "ORTH": "roubar"
+        },
+        {
+            "ORTH": "lhe"
+        }
+    ],
+    "seja-se": [
+        {
+            "ORTH": "seja"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "realiza-se": [
+        {
+            "ORTH": "realiza"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "presume-se": [
+        {
+            "ORTH": "presume"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "depararam-se": [
+        {
+            "ORTH": "depararam"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "ficar-se-\u00e1": [
+        {
+            "ORTH": "ficar\u00e1"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "deslocar-se": [
+        {
+            "ORTH": "deslocar"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "formou-se": [
+        {
+            "ORTH": "formou"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "d\u00e1-lhe": [
+        {
+            "ORTH": "d\u00e1"
+        },
+        {
+            "ORTH": "lhe"
+        }
+    ],
+    "Da": [
+        {
+            "ORTH": "De"
+        },
+        {
+            "ORTH": "a"
+        }
+    ],
+    "confirma-a": [
+        {
+            "ORTH": "confirma"
+        },
+        {
+            "ORTH": "a"
+        }
+    ],
+    "atribuindo-o": [
+        {
+            "ORTH": "atribuindo"
+        },
+        {
+            "ORTH": "o"
+        }
+    ],
+    "dizendo-lhe": [
+        {
+            "ORTH": "dizendo"
+        },
+        {
+            "ORTH": "lhe"
+        }
+    ],
+    "atirando-lhe": [
+        {
+            "ORTH": "atirando"
+        },
+        {
+            "ORTH": "lhe"
+        }
+    ],
+    "dividiam-se": [
+        {
+            "ORTH": "dividiam"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "reacender-se": [
+        {
+            "ORTH": "reacender"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "retirar-nos": [
+        {
+            "ORTH": "retirar"
+        },
+        {
+            "ORTH": "nos"
+        }
+    ],
+    "respondem-me": [
+        {
+            "ORTH": "respondem"
+        },
+        {
+            "ORTH": "me"
+        }
+    ],
+    "queixou-se": [
+        {
+            "ORTH": "queixou"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "impede-a": [
+        {
+            "ORTH": "impede"
+        },
+        {
+            "ORTH": "a"
+        }
+    ],
+    "entregam-se": [
+        {
+            "ORTH": "entregam"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "pensar-se": [
+        {
+            "ORTH": "pensar"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "telefonaram-me": [
+        {
+            "ORTH": "telefonaram"
+        },
+        {
+            "ORTH": "me"
+        }
+    ],
+    "responde-nos": [
+        {
+            "ORTH": "responde"
+        },
+        {
+            "ORTH": "nos"
+        }
+    ],
+    "nalgumas": [
+        {
+            "ORTH": "em"
+        },
+        {
+            "ORTH": "algumas"
+        }
+    ],
+    "fornecer-lhe": [
+        {
+            "ORTH": "fornecer"
+        },
+        {
+            "ORTH": "lhe"
+        }
+    ],
+    "tratava-se": [
+        {
+            "ORTH": "tratava"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "encontrava-se": [
+        {
+            "ORTH": "encontrava"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Dantes": [
+        {
+            "ORTH": "De"
+        },
+        {
+            "ORTH": "antes"
+        }
+    ],
+    "exigiam-lhe": [
+        {
+            "ORTH": "exigiam"
+        },
+        {
+            "ORTH": "lhe"
+        }
+    ],
+    "fazer-lhe": [
+        {
+            "ORTH": "fazer"
+        },
+        {
+            "ORTH": "lhe"
+        }
+    ],
+    "oferecendo-lhe": [
+        {
+            "ORTH": "oferecendo"
+        },
+        {
+            "ORTH": "lhe"
+        }
+    ],
+    "tirava-as": [
+        {
+            "ORTH": "tirava"
+        },
+        {
+            "ORTH": "as"
+        }
+    ],
+    "comprometeu-se": [
+        {
+            "ORTH": "comprometeu"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Adivinha-se": [
+        {
+            "ORTH": "Adivinha"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "V\u00ea-se": [
+        {
+            "ORTH": "V\u00ea"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "nisso": [
+        {
+            "ORTH": "em"
+        },
+        {
+            "ORTH": "isso"
+        }
+    ],
+    "execut\u00e1-los": [
+        {
+            "ORTH": "execut\u00e1"
+        },
+        {
+            "ORTH": "los"
+        }
+    ],
+    "orgulhar-se": [
+        {
+            "ORTH": "orgulhar"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "processar-se-\u00e1": [
+        {
+            "ORTH": "processar\u00e1"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "seguindo-se": [
+        {
+            "ORTH": "seguindo"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "fazer-me": [
+        {
+            "ORTH": "fazer"
+        },
+        {
+            "ORTH": "me"
+        }
+    ],
+    "Diz-se": [
+        {
+            "ORTH": "Diz"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "torna-se": [
+        {
+            "ORTH": "torna"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "aproximando-se": [
+        {
+            "ORTH": "aproximando"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "valorizou-se": [
+        {
+            "ORTH": "valorizou"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "cotar-se": [
+        {
+            "ORTH": "cotar"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "torn\u00e1-lo": [
+        {
+            "ORTH": "torn\u00e1"
+        },
+        {
+            "ORTH": "lo"
+        }
+    ],
+    "descreve-se": [
+        {
+            "ORTH": "descreve"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "elevou-se": [
+        {
+            "ORTH": "elevou"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "chamando-lhe": [
+        {
+            "ORTH": "chamando"
+        },
+        {
+            "ORTH": "lhe"
+        }
+    ],
+    "abeirou-se": [
+        {
+            "ORTH": "abeirou"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "desculpou-se": [
+        {
+            "ORTH": "desculpou"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "lembrando-lhe": [
+        {
+            "ORTH": "lembrando"
+        },
+        {
+            "ORTH": "lhe"
+        }
+    ],
+    "d\u00e1-me": [
+        {
+            "ORTH": "d\u00e1"
+        },
+        {
+            "ORTH": "me"
+        }
+    ],
+    "noutra": [
+        {
+            "ORTH": "em"
+        },
+        {
+            "ORTH": "outra"
+        }
+    ],
+    "entrega-se": [
+        {
+            "ORTH": "entrega"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "inal\u00e1-lo": [
+        {
+            "ORTH": "inal\u00e1"
+        },
+        {
+            "ORTH": "lo"
+        }
+    ],
+    "ficava-se": [
+        {
+            "ORTH": "ficava"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "depositava-se": [
+        {
+            "ORTH": "depositava"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "levando-o": [
+        {
+            "ORTH": "levando"
+        },
+        {
+            "ORTH": "o"
+        }
+    ],
+    "passeou-se": [
+        {
+            "ORTH": "passeou"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "brindou-os": [
+        {
+            "ORTH": "brindou"
+        },
+        {
+            "ORTH": "os"
+        }
+    ],
+    "lan\u00e7ou-se": [
+        {
+            "ORTH": "lan\u00e7ou"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "tapou-lhe": [
+        {
+            "ORTH": "tapou"
+        },
+        {
+            "ORTH": "lhe"
+        }
+    ],
+    "agrediu-a": [
+        {
+            "ORTH": "agrediu"
+        },
+        {
+            "ORTH": "a"
+        }
+    ],
+    "atirou-a": [
+        {
+            "ORTH": "atirou"
+        },
+        {
+            "ORTH": "a"
+        }
+    ],
+    "rasgou-lhe": [
+        {
+            "ORTH": "rasgou"
+        },
+        {
+            "ORTH": "lhe"
+        }
+    ],
+    "valorizar-se": [
+        {
+            "ORTH": "valorizar"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "naqueles": [
+        {
+            "ORTH": "em"
+        },
+        {
+            "ORTH": "aqueles"
+        }
+    ],
+    "inscreveu-se": [
+        {
+            "ORTH": "inscreveu"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Nestes": [
+        {
+            "ORTH": "Em"
+        },
+        {
+            "ORTH": "estes"
+        }
+    ],
+    "estabelecendo-se": [
+        {
+            "ORTH": "estabelecendo"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "verifica-se": [
+        {
+            "ORTH": "verifica"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Ignora-se": [
+        {
+            "ORTH": "Ignora"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Dir-lhe-ia": [
+        {
+            "ORTH": "Diria"
+        },
+        {
+            "ORTH": "lhe"
+        }
+    ],
+    "fica-se": [
+        {
+            "ORTH": "fica"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "ouviu-se": [
+        {
+            "ORTH": "ouviu"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "levantar-se": [
+        {
+            "ORTH": "levantar"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "avistou-se": [
+        {
+            "ORTH": "avistou"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "complicar-se": [
+        {
+            "ORTH": "complicar"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "prop\u00f5e-se": [
+        {
+            "ORTH": "prop\u00f5e"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "torn\u00e1-la-ia": [
+        {
+            "ORTH": "tornaria"
+        },
+        {
+            "ORTH": "la"
+        }
+    ],
+    "propunham-se": [
+        {
+            "ORTH": "propunham"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "mant\u00ea-lo": [
+        {
+            "ORTH": "mant\u00ea"
+        },
+        {
+            "ORTH": "lo"
+        }
+    ],
+    "conduzi-lo": [
+        {
+            "ORTH": "conduzi"
+        },
+        {
+            "ORTH": "lo"
+        }
+    ],
+    "imp\u00f5e-se": [
+        {
+            "ORTH": "imp\u00f5e"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "relaciona-se": [
+        {
+            "ORTH": "relaciona"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "difundiram-se": [
+        {
+            "ORTH": "difundiram"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "classificaram-se": [
+        {
+            "ORTH": "classificaram"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "p\u00f4de-se": [
+        {
+            "ORTH": "p\u00f4de"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "revestir-se": [
+        {
+            "ORTH": "revestir"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "dizer-se": [
+        {
+            "ORTH": "dizer"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "afastou-se": [
+        {
+            "ORTH": "afastou"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Parecer-me-ia": [
+        {
+            "ORTH": "Pareceria"
+        },
+        {
+            "ORTH": "me"
+        }
+    ],
+    "capitaliz\u00e1-la": [
+        {
+            "ORTH": "capitaliz\u00e1"
+        },
+        {
+            "ORTH": "la"
+        }
+    ],
+    "situa-se": [
+        {
+            "ORTH": "situa"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "estabelecer-se": [
+        {
+            "ORTH": "estabelecer"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "inclui-se": [
+        {
+            "ORTH": "inclui"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "mat\u00e1-la": [
+        {
+            "ORTH": "mat\u00e1"
+        },
+        {
+            "ORTH": "la"
+        }
+    ],
+    "noutros": [
+        {
+            "ORTH": "em"
+        },
+        {
+            "ORTH": "outros"
+        }
+    ],
+    "ganh\u00e1-los": [
+        {
+            "ORTH": "ganh\u00e1"
+        },
+        {
+            "ORTH": "los"
+        }
+    ],
+    "jog\u00e1-los": [
+        {
+            "ORTH": "jog\u00e1"
+        },
+        {
+            "ORTH": "los"
+        }
+    ],
+    "instalou-se": [
+        {
+            "ORTH": "instalou"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "bastar-se": [
+        {
+            "ORTH": "bastar"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "desertificar-se": [
+        {
+            "ORTH": "desertificar"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "desconhecendo-se": [
+        {
+            "ORTH": "desconhecendo"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "distanciarem-se": [
+        {
+            "ORTH": "distanciarem"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "divertir-nos": [
+        {
+            "ORTH": "divertir"
+        },
+        {
+            "ORTH": "nos"
+        }
+    ],
+    "Seguiu-se": [
+        {
+            "ORTH": "Seguiu"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "comigo": [
+        {
+            "ORTH": "com"
+        },
+        {
+            "ORTH": "mim"
+        }
+    ],
+    "pronunciou-se": [
+        {
+            "ORTH": "pronunciou"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "avaliam-se": [
+        {
+            "ORTH": "avaliam"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "lan\u00e7ar-se": [
+        {
+            "ORTH": "lan\u00e7ar"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "empenhar-se": [
+        {
+            "ORTH": "empenhar"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "foi-me": [
+        {
+            "ORTH": "foi"
+        },
+        {
+            "ORTH": "me"
+        }
+    ],
+    "disse-me": [
+        {
+            "ORTH": "disse"
+        },
+        {
+            "ORTH": "me"
+        }
+    ],
+    "sabe-se": [
+        {
+            "ORTH": "sabe"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Queixa-se": [
+        {
+            "ORTH": "Queixa"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "afirmam-se": [
+        {
+            "ORTH": "afirmam"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "mostrar-se": [
+        {
+            "ORTH": "mostrar"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "confirmou-se": [
+        {
+            "ORTH": "confirmou"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "serve-nos": [
+        {
+            "ORTH": "serve"
+        },
+        {
+            "ORTH": "nos"
+        }
+    ],
+    "regozijou-se": [
+        {
+            "ORTH": "regozijou"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "ver-se-\u00e1": [
+        {
+            "ORTH": "ver\u00e1"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "dot\u00e1-lo": [
+        {
+            "ORTH": "dot\u00e1"
+        },
+        {
+            "ORTH": "lo"
+        }
+    ],
+    "encaminhar-se": [
+        {
+            "ORTH": "encaminhar"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "riem-se": [
+        {
+            "ORTH": "riem"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Respirou-se": [
+        {
+            "ORTH": "Respirou"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "recriminam-se": [
+        {
+            "ORTH": "recriminam"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "dali": [
+        {
+            "ORTH": "de"
+        },
+        {
+            "ORTH": "ali"
+        }
+    ],
+    "seguiram-se": [
+        {
+            "ORTH": "seguiram"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "separaram-se": [
+        {
+            "ORTH": "separaram"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "isolou-se": [
+        {
+            "ORTH": "isolou"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "tratando-se": [
+        {
+            "ORTH": "tratando"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Encontra-se": [
+        {
+            "ORTH": "Encontra"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "iniciar-se": [
+        {
+            "ORTH": "iniciar"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "prevendo-se": [
+        {
+            "ORTH": "prevendo"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "F\u00ea-lo": [
+        {
+            "ORTH": "F\u00ea"
+        },
+        {
+            "ORTH": "lo"
+        }
+    ],
+    "mand\u00e1-las": [
+        {
+            "ORTH": "mand\u00e1"
+        },
+        {
+            "ORTH": "las"
+        }
+    ],
+    "despedia-se": [
+        {
+            "ORTH": "despedia"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "descreverem-se": [
+        {
+            "ORTH": "descreverem"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "lha": [
+        {
+            "ORTH": "lhe"
+        },
+        {
+            "ORTH": "a"
+        }
+    ],
+    "obrigando-os": [
+        {
+            "ORTH": "obrigando"
+        },
+        {
+            "ORTH": "os"
+        }
+    ],
+    "injectar-se": [
+        {
+            "ORTH": "injectar"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "integrou-se": [
+        {
+            "ORTH": "integrou"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "assistiu-se": [
+        {
+            "ORTH": "assistiu"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "apressou-se": [
+        {
+            "ORTH": "apressou"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "conta-se": [
+        {
+            "ORTH": "conta"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "concluir-se": [
+        {
+            "ORTH": "concluir"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "desviar-se": [
+        {
+            "ORTH": "desviar"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "ajudando-os": [
+        {
+            "ORTH": "ajudando"
+        },
+        {
+            "ORTH": "os"
+        }
+    ],
+    "agrada-me": [
+        {
+            "ORTH": "agrada"
+        },
+        {
+            "ORTH": "me"
+        }
+    ],
+    "demitiu-se": [
+        {
+            "ORTH": "demitiu"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "pode-se": [
+        {
+            "ORTH": "pode"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "verificar-se": [
+        {
+            "ORTH": "verificar"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "revela-se": [
+        {
+            "ORTH": "revela"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "recandidatar-se": [
+        {
+            "ORTH": "recandidatar"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "reuniu-se": [
+        {
+            "ORTH": "reuniu"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "imp\u00f4s-se": [
+        {
+            "ORTH": "imp\u00f4s"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Agarrou-se": [
+        {
+            "ORTH": "Agarrou"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Desse": [
+        {
+            "ORTH": "De"
+        },
+        {
+            "ORTH": "esse"
+        }
+    ],
+    "sendo-se": [
+        {
+            "ORTH": "sendo"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Vejam-se": [
+        {
+            "ORTH": "Vejam"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Nestas": [
+        {
+            "ORTH": "Em"
+        },
+        {
+            "ORTH": "estas"
+        }
+    ],
+    "consegue-o": [
+        {
+            "ORTH": "consegue"
+        },
+        {
+            "ORTH": "o"
+        }
+    ],
+    "f\u00e1-lo": [
+        {
+            "ORTH": "f\u00e1"
+        },
+        {
+            "ORTH": "lo"
+        }
+    ],
+    "mostrar-nos": [
+        {
+            "ORTH": "mostrar"
+        },
+        {
+            "ORTH": "nos"
+        }
+    ],
+    "opor-se": [
+        {
+            "ORTH": "opor"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "proporcionar-lhe": [
+        {
+            "ORTH": "proporcionar"
+        },
+        {
+            "ORTH": "lhe"
+        }
+    ],
+    "fazia-se": [
+        {
+            "ORTH": "fazia"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "citem-se": [
+        {
+            "ORTH": "citem"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Tendo-se": [
+        {
+            "ORTH": "Tendo"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "re\u00fane-se": [
+        {
+            "ORTH": "re\u00fane"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "deram-se": [
+        {
+            "ORTH": "deram"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "debater-se": [
+        {
+            "ORTH": "debater"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Esperam-se": [
+        {
+            "ORTH": "Esperam"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "desenvolve-se": [
+        {
+            "ORTH": "desenvolve"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "perdeu-se": [
+        {
+            "ORTH": "perdeu"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "torn\u00e1-la": [
+        {
+            "ORTH": "torn\u00e1"
+        },
+        {
+            "ORTH": "la"
+        }
+    ],
+    "fazia-nos": [
+        {
+            "ORTH": "fazia"
+        },
+        {
+            "ORTH": "nos"
+        }
+    ],
+    "l\u00ea-se": [
+        {
+            "ORTH": "l\u00ea"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "refere-se": [
+        {
+            "ORTH": "refere"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "\u00e0queles": [
+        {
+            "ORTH": "a"
+        },
+        {
+            "ORTH": "aqueles"
+        }
+    ],
+    "sustenta-se": [
+        {
+            "ORTH": "sustenta"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "interroga-se": [
+        {
+            "ORTH": "interroga"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Aguarda-se": [
+        {
+            "ORTH": "Aguarda"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Sust\u00eam-se": [
+        {
+            "ORTH": "Sust\u00eam"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "custaram-lhe": [
+        {
+            "ORTH": "custaram"
+        },
+        {
+            "ORTH": "lhe"
+        }
+    ],
+    "Reencontrou-se": [
+        {
+            "ORTH": "Reencontrou"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "referia-se": [
+        {
+            "ORTH": "referia"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "apresent\u00e1-lo": [
+        {
+            "ORTH": "apresent\u00e1"
+        },
+        {
+            "ORTH": "lo"
+        }
+    ],
+    "portava-se": [
+        {
+            "ORTH": "portava"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Aproximou-se": [
+        {
+            "ORTH": "Aproximou"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Subiram-lhe": [
+        {
+            "ORTH": "Subiram"
+        },
+        {
+            "ORTH": "lhe"
+        }
+    ],
+    "esquivou-se": [
+        {
+            "ORTH": "esquivou"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "convidou-o": [
+        {
+            "ORTH": "convidou"
+        },
+        {
+            "ORTH": "o"
+        }
+    ],
+    "revelou-se": [
+        {
+            "ORTH": "revelou"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Fazia-se": [
+        {
+            "ORTH": "Fazia"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "simplificam-se": [
+        {
+            "ORTH": "simplificam"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "al\u00e9m-Pirin\u00e9us": [
+        {
+            "ORTH": "al\u00e9m"
+        },
+        {
+            "ORTH": "Pirin\u00e9us"
+        }
+    ],
+    "deslocou-se": [
+        {
+            "ORTH": "deslocou"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "diz\u00ea-lo": [
+        {
+            "ORTH": "diz\u00ea"
+        },
+        {
+            "ORTH": "lo"
+        }
+    ],
+    "justifica-se": [
+        {
+            "ORTH": "justifica"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "aliou-se": [
+        {
+            "ORTH": "aliou"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "reconhecendo-se": [
+        {
+            "ORTH": "reconhecendo"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "\u00e0quela": [
+        {
+            "ORTH": "a"
+        },
+        {
+            "ORTH": "aquela"
+        }
+    ],
+    "prop\u00f5em-se": [
+        {
+            "ORTH": "prop\u00f5em"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "envolver-se": [
+        {
+            "ORTH": "envolver"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "mant\u00ea-los": [
+        {
+            "ORTH": "mant\u00ea"
+        },
+        {
+            "ORTH": "los"
+        }
+    ],
+    "NO": [
+        {
+            "ORTH": "EM"
+        },
+        {
+            "ORTH": "O"
+        }
+    ],
+    "aprova-se": [
+        {
+            "ORTH": "aprova"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "negocia-se": [
+        {
+            "ORTH": "negocia"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "DO": [
+        {
+            "ORTH": "DE"
+        },
+        {
+            "ORTH": "O"
+        }
+    ],
+    "DA": [
+        {
+            "ORTH": "DE"
+        },
+        {
+            "ORTH": "A"
+        }
+    ],
+    "t\u00ea-la": [
+        {
+            "ORTH": "t\u00ea"
+        },
+        {
+            "ORTH": "la"
+        }
+    ],
+    "Pode-se": [
+        {
+            "ORTH": "Pode"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "distribu\u00ed-los": [
+        {
+            "ORTH": "distribu\u00ed"
+        },
+        {
+            "ORTH": "los"
+        }
+    ],
+    "provocou-me": [
+        {
+            "ORTH": "provocou"
+        },
+        {
+            "ORTH": "me"
+        }
+    ],
+    "confrontando-se": [
+        {
+            "ORTH": "confrontando"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "comunicou-lhe": [
+        {
+            "ORTH": "comunicou"
+        },
+        {
+            "ORTH": "lhe"
+        }
+    ],
+    "produz\u00ed-lo": [
+        {
+            "ORTH": "produz\u00ed"
+        },
+        {
+            "ORTH": "lo"
+        }
+    ],
+    "convertera-se": [
+        {
+            "ORTH": "convertera"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "depara-se": [
+        {
+            "ORTH": "depara"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "acariciar-lhe": [
+        {
+            "ORTH": "acariciar"
+        },
+        {
+            "ORTH": "lhe"
+        }
+    ],
+    "diga-se": [
+        {
+            "ORTH": "diga"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "PELO": [
+        {
+            "ORTH": "POR"
+        },
+        {
+            "ORTH": "O"
+        }
+    ],
+    "divulg\u00e1-las": [
+        {
+            "ORTH": "divulg\u00e1"
+        },
+        {
+            "ORTH": "las"
+        }
+    ],
+    "localiz\u00e1-lo": [
+        {
+            "ORTH": "localiz\u00e1"
+        },
+        {
+            "ORTH": "lo"
+        }
+    ],
+    "nisto": [
+        {
+            "ORTH": "em"
+        },
+        {
+            "ORTH": "isto"
+        }
+    ],
+    "coorden\u00e1-la": [
+        {
+            "ORTH": "coorden\u00e1"
+        },
+        {
+            "ORTH": "la"
+        }
+    ],
+    "Deve-se": [
+        {
+            "ORTH": "Deve"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "arriscar-me": [
+        {
+            "ORTH": "arriscar"
+        },
+        {
+            "ORTH": "me"
+        }
+    ],
+    "Entregar-se": [
+        {
+            "ORTH": "Entregar"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "pra": [
+        {
+            "ORTH": "para"
+        },
+        {
+            "ORTH": "a"
+        }
+    ],
+    "medi-lo": [
+        {
+            "ORTH": "medi"
+        },
+        {
+            "ORTH": "lo"
+        }
+    ],
+    "leva-os": [
+        {
+            "ORTH": "leva"
+        },
+        {
+            "ORTH": "os"
+        }
+    ],
+    "incluindo-se": [
+        {
+            "ORTH": "incluindo"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "baseia-se": [
+        {
+            "ORTH": "baseia"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "acode-nos": [
+        {
+            "ORTH": "acode"
+        },
+        {
+            "ORTH": "nos"
+        }
+    ],
+    "d\u00e1-nos": [
+        {
+            "ORTH": "d\u00e1"
+        },
+        {
+            "ORTH": "nos"
+        }
+    ],
+    "encerram-se": [
+        {
+            "ORTH": "encerram"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "DOS": [
+        {
+            "ORTH": "DE"
+        },
+        {
+            "ORTH": "OS"
+        }
+    ],
+    "submeter-se": [
+        {
+            "ORTH": "submeter"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "reintegr\u00e1-lo": [
+        {
+            "ORTH": "reintegr\u00e1"
+        },
+        {
+            "ORTH": "lo"
+        }
+    ],
+    "Desculpe-se": [
+        {
+            "ORTH": "Desculpe"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "esbo\u00e7a-se": [
+        {
+            "ORTH": "esbo\u00e7a"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "render-se": [
+        {
+            "ORTH": "render"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Tome-se": [
+        {
+            "ORTH": "Tome"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Afirma-o": [
+        {
+            "ORTH": "Afirma"
+        },
+        {
+            "ORTH": "o"
+        }
+    ],
+    "aplica-se": [
+        {
+            "ORTH": "aplica"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "avalia-se": [
+        {
+            "ORTH": "avalia"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "assustou-se": [
+        {
+            "ORTH": "assustou"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "aprov\u00e1-lo": [
+        {
+            "ORTH": "aprov\u00e1"
+        },
+        {
+            "ORTH": "lo"
+        }
+    ],
+    "estendendo-a": [
+        {
+            "ORTH": "estendendo"
+        },
+        {
+            "ORTH": "a"
+        }
+    ],
+    "abstraindo-se": [
+        {
+            "ORTH": "abstraindo"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "estima-se": [
+        {
+            "ORTH": "estima"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "aprofundou-se": [
+        {
+            "ORTH": "aprofundou"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "revelaram-se": [
+        {
+            "ORTH": "revelaram"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "acirrou-se": [
+        {
+            "ORTH": "acirrou"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "incluiam-se": [
+        {
+            "ORTH": "incluiam"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "faz\u00ea-los": [
+        {
+            "ORTH": "faz\u00ea"
+        },
+        {
+            "ORTH": "los"
+        }
+    ],
+    "Somando-se": [
+        {
+            "ORTH": "Somando"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "chega-se": [
+        {
+            "ORTH": "chega"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "destacam-se": [
+        {
+            "ORTH": "destacam"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "juntou-se": [
+        {
+            "ORTH": "juntou"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "apanh\u00e1-los": [
+        {
+            "ORTH": "apanh\u00e1"
+        },
+        {
+            "ORTH": "los"
+        }
+    ],
+    "naquilo": [
+        {
+            "ORTH": "em"
+        },
+        {
+            "ORTH": "aquilo"
+        }
+    ],
+    "vacin\u00e1-la": [
+        {
+            "ORTH": "vacin\u00e1"
+        },
+        {
+            "ORTH": "la"
+        }
+    ],
+    "institucionalizou-se": [
+        {
+            "ORTH": "institucionalizou"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "convidando-os": [
+        {
+            "ORTH": "convidando"
+        },
+        {
+            "ORTH": "os"
+        }
+    ],
+    "destro\u00e7\u00e1-la": [
+        {
+            "ORTH": "destro\u00e7\u00e1"
+        },
+        {
+            "ORTH": "la"
+        }
+    ],
+    "levou-o": [
+        {
+            "ORTH": "levou"
+        },
+        {
+            "ORTH": "o"
+        }
+    ],
+    "afiou-o": [
+        {
+            "ORTH": "afiou"
+        },
+        {
+            "ORTH": "o"
+        }
+    ],
+    "Nela": [
+        {
+            "ORTH": "Em"
+        },
+        {
+            "ORTH": "ela"
+        }
+    ],
+    "rebelar-se": [
+        {
+            "ORTH": "rebelar"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "trocando-os": [
+        {
+            "ORTH": "trocando"
+        },
+        {
+            "ORTH": "os"
+        }
+    ],
+    "desagrad\u00e1-la": [
+        {
+            "ORTH": "desagrad\u00e1"
+        },
+        {
+            "ORTH": "la"
+        }
+    ],
+    "AO": [
+        {
+            "ORTH": "A"
+        },
+        {
+            "ORTH": "O"
+        }
+    ],
+    "coligou-se": [
+        {
+            "ORTH": "coligou"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "tornando-as": [
+        {
+            "ORTH": "tornando"
+        },
+        {
+            "ORTH": "as"
+        }
+    ],
+    "Tratava-se": [
+        {
+            "ORTH": "Tratava"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "Tratavam-se": [
+        {
+            "ORTH": "Tratavam"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "arrast\u00e1-la": [
+        {
+            "ORTH": "arrast\u00e1"
+        },
+        {
+            "ORTH": "la"
+        }
+    ],
+    "cumpr\u00ed-la": [
+        {
+            "ORTH": "cumpr\u00ed"
+        },
+        {
+            "ORTH": "la"
+        }
+    ],
+    "encerrou-se": [
+        {
+            "ORTH": "encerrou"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "chama-se": [
+        {
+            "ORTH": "chama"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "nome\u00e1-lo": [
+        {
+            "ORTH": "nome\u00e1"
+        },
+        {
+            "ORTH": "lo"
+        }
+    ],
+    "Inspira-se": [
+        {
+            "ORTH": "Inspira"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "apunha-lhe": [
+        {
+            "ORTH": "apunha"
+        },
+        {
+            "ORTH": "lhe"
+        }
+    ],
+    "irritou-se": [
+        {
+            "ORTH": "irritou"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "dando-lhe": [
+        {
+            "ORTH": "dando"
+        },
+        {
+            "ORTH": "lhe"
+        }
+    ],
+    "unia-se": [
+        {
+            "ORTH": "unia"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "desconfiava-se": [
+        {
+            "ORTH": "desconfiava"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "aliar-se": [
+        {
+            "ORTH": "aliar"
+        },
+        {
+            "ORTH": "se"
+        }
+    ],
+    "dalguns": [
+        {
+            "ORTH": "de"
+        },
+        {
+            "ORTH": "alguns"
+        }
+    ],
+    "donde": [
+        {
+            "ORTH": "de"
+        },
+        {
+            "ORTH": "onde"
+        }
+    ],
+    "dalguma": [
+        {
+            "ORTH": "de"
+        },
+        {
+            "ORTH": "alguma"
+        }
+    ],
+    "doutra": [
+        {
+            "ORTH": "de"
+        },
+        {
+            "ORTH": "outra"
+        }
+    ],
+    "doutros": [
+        {
+            "ORTH": "de"
+        },
+        {
+            "ORTH": "outros"
+        }
+    ],
+    "Pelos": [
+        {
+            "ORTH": "Por"
+        },
+        {
+            "ORTH": "os"
+        }
+    ],
+    "doutras": [
+        {
+            "ORTH": "de"
+        },
+        {
+            "ORTH": "outras"
+        }
+    ],
+    "dalgumas": [
+        {
+            "ORTH": "de"
+        },
+        {
+            "ORTH": "algumas"
+        }
+    ],
+    "DUM": [
+        {
+            "ORTH": "DE"
+        },
+        {
+            "ORTH": "UM"
+        }
+    ],
+    "doutro": [
+        {
+            "ORTH": "de"
+        },
+        {
+            "ORTH": "outro"
+        }
+    ],
+    "Noutras": [
+        {
+            "ORTH": "Em"
+        },
+        {
+            "ORTH": "outras"
+        }
+    ],
+    "dalgu\u00e9m": [
+        {
+            "ORTH": "de"
+        },
+        {
+            "ORTH": "algu\u00e9m"
+        }
+    ],
+    "Dum": [
+        {
+            "ORTH": "De"
+        },
+        {
+            "ORTH": "um"
+        }
+    ],
+    "Noutros": [
+        {
+            "ORTH": "Em"
+        },
+        {
+            "ORTH": "outros"
+        }
+    ],
+    "Nalguns": [
+        {
+            "ORTH": "Em"
+        },
+        {
+            "ORTH": "alguns"
+        }
+    ],
+    "Dalguma": [
+        {
+            "ORTH": "De"
+        },
+        {
+            "ORTH": "alguma"
+        }
+    ],
+    "Doutro": [
+        {
+            "ORTH": "De"
+        },
+        {
+            "ORTH": "outro"
+        }
+    ],
+    "dalgum": [
+        {
+            "ORTH": "de"
+        },
+        {
+            "ORTH": "algum"
+        }
+    ],
+    "Noutro": [
+        {
+            "ORTH": "Em"
+        },
+        {
+            "ORTH": "outro"
+        }
+    ]
+}
